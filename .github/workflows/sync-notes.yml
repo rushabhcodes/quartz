@@ -26,24 +26,15 @@ jobs:
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
           path: quartz
 
-      - name: Delete everything in content/ except index.md
+      - name: Delete everything in content/
         run: |
           cd quartz
-          mv content/index.md .
           rm -rf content
           mkdir content
-          mv index.md content
 
       - name: Copy over media and files
         run: |
-          cd garden
-          echo "----- Copying over public-only attachments"
-          cp -vr attachments/. ../quartz/content
-          echo -e "\n----- Copying over Markdown files"
-          cp -vr notes/. ../quartz/content
-          cd ../quartz/content
-        #   mv attachments _files
-        # ^ Include this last line if you want to rename your public folder
+          rsync -av --exclude='*/private/' --exclude='.*' garden/ quartz/content/
 
       - name: Print out current state of filesystem
         run: |
@@ -52,9 +43,6 @@ jobs:
           ls | cat
           echo -e "\n----- Folder: quartz/content/"
           ls content | cat
-          echo -e "\n----- Folder: quartz/content/attachments"
-          ls content/attachments | cat
-        # ^ NOTE: this uses the renamed folder name from above
 
       - name: Install Bun just to run literally two commands
         uses: oven-sh/setup-bun@v2.0.1
