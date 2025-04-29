@@ -40,7 +40,7 @@ jobs:
           echo -e "\n----- Copying over Markdown files"
           cp -vr notes/. ../quartz/content
           cd ../quartz/content
-          mv attachments _files
+        #   mv attachments _files
         # ^ Include this last line if you want to rename your public folder
 
       - name: Print out current state of filesystem
@@ -50,8 +50,8 @@ jobs:
           ls | cat
           echo -e "\n----- Folder: quartz/content/"
           ls content | cat
-          echo -e "\n----- Folder: quartz/content/_files"
-          ls content/_files | cat
+          echo -e "\n----- Folder: quartz/content/attachments"
+          ls content/attachments | cat
         # ^ NOTE: this uses the renamed folder name from above
 
       - name: Install Bun just to run literally two commands
