@@ -1,0 +1,22 @@
+name: Sync Obsidian Notes and Deploy
+
+on:
+    push:
+        branches:
+            - v4
+            
+    schedule:
+        - cron: '*/30 * * * *'  # Runs every 30 minutes
+
+    workflow_dispatch:         # Also allow manual triggering
+
+jobs:
+    sync-and-deploy:
+        runs-on: ubuntu-latest
+        
+        steps:
+            - name: Checkout Quartz Repo
+            uses: actions/checkout@v4.2.2
+            with:
+              ref: v4
+              
