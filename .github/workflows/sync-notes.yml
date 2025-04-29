@@ -1,6 +1,8 @@
 name: Update vault content
 
 on:
+  repository_dispatch:
+    types: [vault-updated]
   schedule:
     - cron: "0 11 * * MON" # Run every Monday at 11 AM UTC
   workflow_dispatch:
