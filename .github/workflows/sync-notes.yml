@@ -38,7 +38,7 @@ jobs:
           echo "----- Copying over public-only attachments"
           cp -vr attachments/. ../quartz/content
           echo -e "\n----- Copying over Markdown files"
-          cp -vr garden/. ../quartz/content
+          cp -vr notes/. ../quartz/content
           cd ../quartz/content
           mv attachments _files
         # ^ Include this last line if you want to rename your public folder
