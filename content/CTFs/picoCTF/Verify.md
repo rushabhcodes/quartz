@@ -35,8 +35,9 @@ Try to decrypt a random file with the given script which returned gibberish.
 	- Hint 3
 		- Remember you can pipe the output of one command to another with `|`. Try practicing with the 'First Grep' challenge if you're stuck!
 
-- `sha256sum files/*` gave shecksum of all files
-- `checksum files/* | grep 3ad37ed6c5ab81d31e4c94ae611e0adf2e9e3e6bee55804ebc7f386283e366a4` gave the file in which the flag exist.
+`sha256sum files/*` gave shecksum of all files
+
+ `checksum files/* | grep 3ad37ed6c5ab81d31e4c94ae611e0adf2e9e3e6bee55804ebc7f386283e366a4` gave the file in which the flag exist.
 # Flag
 
 > [!success] Flag
