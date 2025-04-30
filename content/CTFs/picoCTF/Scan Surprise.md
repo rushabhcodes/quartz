@@ -20,8 +20,8 @@ You can download the challenge files here: [challenge.zip](https://artifacts.pic
 The same files are accessible via SSH here: `ssh -p 51989 ctf-player@atlas.picoctf.net`  
 Using the password `6dd28e9b`. Accept the fingerprint with `yes`, and `ls` once connected to begin. Remember, in a shell, passwords are hidden!
 # Approach and Steps 
-`ssh -p 51989 ctf-player@atlas.picoctf.net` into the server which showed a qr code
-Scanning the qr code with my phone gave the flag
+- `ssh -p 51989 ctf-player@atlas.picoctf.net` into the server which showed a qr code
+- Scanning the qr code with my phone gave the flag
 # Flag
 
 > [!success] Flag
