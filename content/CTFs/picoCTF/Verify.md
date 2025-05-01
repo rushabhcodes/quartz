@@ -12,6 +12,7 @@ tags:
   - picoctf
   - easy
   - forenscis
+  - picocCTF2024
 link: https://play.picoctf.org/practice/challenge/450
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/450)

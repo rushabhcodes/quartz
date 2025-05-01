@@ -1,20 +1,21 @@
 ---
-title: "Ph4nt0m 1ntrud3r"
+title: Ph4nt0m 1ntrud3r
 ctf: "[[picoCTF]]"
 category: "[[Forensics]]"
 difficulty: "[[Easy]]"
 points: 0
-status: "Solved"
-flag_format: "picoCTF{...}"
+status: Solved
+flag_format: picoCTF{...}
 date: 2025-05-01
 tags:
   - ctf
   - picoctf
   - forensics
   - easy
-link: "https://play.picoctf.org/practice/challenge/459"
+  - picocCTF2025
+link: https://play.picoctf.org/practice/challenge/459
 ---
-# [Challenge Description](picoCTF)
+# [Challenge Description](https://play.picoctf.org/practice/challenge/459)
 A digital ghost has breached my defenses, and my sensitive data has been stolen! 😱💻 Your mission is to uncover how this phantom intruder infiltrated my system and retrieve the hidden flag.
 
 To solve this challenge, you'll need to analyze the provided [[PCAP]] file and track down the attack method. The attacker has cleverly concealed his moves in well timely manner. Dive into the network traffic, apply the right filters and show off your forensic prowess and unmask the digital intruder! 
