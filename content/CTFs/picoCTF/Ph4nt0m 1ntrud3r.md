@@ -21,36 +21,30 @@ To solve this challenge, you'll need to analyze the provided [[PCAP]] file and t
 
 Find the PCAP file here [Network Traffic PCAP file](https://challenge-files.picoctf.net/c_verbal_sleep/a917f567b9cc0f1a730a7801b309955df4d2234a8114326857b9759e9e5d0453/myNetworkTraffic.pcap) and try to get the flag.
 # Approach and Steps
-- [Step 1]
-	- Open Wireshark with `myNetworkTraffic.pcap`
+Open Wireshark with `myNetworkTraffic.pcap`
 
-- [Step 2]
-	- All the requests were `TCP Retransimtteed`
+All the requests were `TCP Retransimtteed`
 
-- [Step 3]
-	- After looking at the hints i filtered them by time and the last few transmissions had the flag.	
+After looking at the hints i filtered them by time and the last few transmissions had the flag.	
 ```
-		cGljb0NURg=
-		ezF0X3c0cw==
-		bnRfdGg0dA==
-		XzM0c3lfdA==
-		YmhfNHJfOQ==
-		NTlmNTBkMw==
-		fQ==
-
+cGljb0NURg=
+ezF0X3c0cw==
+bnRfdGg0dA==
+XzM0c3lfdA==
+YmhfNHJfOQ==
+NTlmNTBkMw==
+fQ==
 ```
-- But i manually typed each base64 data in the converte, i an sure there is a better way to do it.
+But i manually typed each base64 data in the converte, i an sure there is a better way to do it.
 ```
-
-		picoCTF
-		{1t_w4s
-		nt_th4t
-		_34sy_t
-		bh_4r_9
-		59f50d3
-		}
+picoCTF
+{1t_w4s
+nt_th4t
+_34sy_t
+bh_4r_9
+59f50d3
+}
 ```
-
 # Flag
 
 > [!success] Flag
