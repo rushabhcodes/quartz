@@ -5,18 +5,21 @@ The challenges are categorised into 6 categories: [[Web Exploitation]], [[Crypto
 ## Easy
 - ### [[Web Exploitation]]
 	- [[SSTI1]]
-- ### [[Binary Exploitation]]
-	- [[format string 0]]
-	- [[PIE TIME]]
+- ### [[Cryptography]]
+- ### [[Reverse Engineering]]
 - ### [[Forenscis]]
 	- [[Verify]]
 	- [[Scan Surprise]]
 	- [[Ph4nt0m 1ntrud3r]]
-## Medium
 - ### [[General Skills]]
-	- [[Permissions]]
+- ### [[Binary Exploitation]]
+	- [[format string 0]]
+	- [[PIE TIME]]
+## Medium
 - ### [[Reverse Engineering]]
 	- [[ASCII FTW]]
 	- [[GDB baby step 1]]
+- ### [[General Skills]]
+	- [[Permissions]]
 ## Hard
 - 

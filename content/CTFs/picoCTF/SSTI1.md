@@ -13,9 +13,13 @@ tags:
   - web
   - exploitation
   - easy
+  - picocCTF2025
 link: https://play.picoctf.org/practice/challenge/492
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/492)
+I made a cool website where you can announce whatever you want! 
+
+Try it out! I heard templating is a cool and modular way to build web apps! Check out my website [here](http://rescued-float.picoctf.net:57722/)!
 
 # Approach and Steps
 `{{7*7}}` returned `47`[therefore](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Template%20Injection/README.md) it is Jinja2 (Python).
