@@ -1,1 +1,1 @@
-![[Learning Agent.excalidraw]]
+![[Learning Agent.excalidraw.svg]]
