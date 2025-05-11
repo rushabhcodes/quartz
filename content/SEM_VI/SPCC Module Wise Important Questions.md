@@ -1,4 +1,11 @@
-# Module 1 - System Software
+Advantages:-
+► Since the assembler does not always reside in
+the main memory, it leaves more main memory
+space available to the user.
+Disadvantages:-
+► The programmer must do memory management
+since he explicitly does the allocation and
+linking for the loader# Module 1 - System Software
 
 ## Difference between Application Software and System Software
 
@@ -71,6 +78,7 @@ Pass 2
 ![[Loader]]
 
 ## Explain design and flowchart of absolute loader
+![[Absolute Loader]]
 ## Explain the working of Direct Linking Loader with an example and also show entry in different built by DLL
 ## Explain Dynamic Linking Loader in Detail
 

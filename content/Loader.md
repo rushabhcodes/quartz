@@ -1,4 +1,7 @@
-A loader is a system program that loads a binary program in memory for execution.
+A loader is a program that loads executable files (programs) from secondary storage into primary memory (RAM) for execution by the CPU. Its primary function is to take an executable file produced by a compiler or an assembler and place it into memory so that it can be run. 
+
+The loader is an essential component of the operating system responsible for managing the execution of
+	programs.
 
 ![[Linker and Loader.excalidraw.svg]]
 
@@ -25,3 +28,5 @@ A loader is a system program that loads a binary program in memory for execution
 | **3. Relocating Loader**           | Supports relocation, enabling flexible memory assignment.                                    |
 | **4. Direct Linking Loader (DLL)** | Uses two passes to resolve external references and relocation. Builds a load module.         |
 | **5. Dynamic Loading Loader**      | Loads only required segments at runtime, using an overlay structure for memory optimization. |
+![[Macro]]
+![[Macro Data Structure]]
