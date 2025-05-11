@@ -19,7 +19,7 @@ LOAD AREG, NUM1
 ADD AREG, NUM2
 ```
 
-# Macro Expansion
+## Macro Expansion
 Macro expansion is the process of **replacing a macro call** with the actual sequence of instructions defined in the macro body.
 
 ## Types of Parameters in Macros
@@ -30,3 +30,4 @@ Macro expansion is the process of **replacing a macro call** with the actual seq
 | **Keyword**    | Substituted by name                          | `M1 &P1=A, &P2=B`          |
 | **Default**    | Uses default values if not passed            | `&P1=10` (if not provided) |
 | **Mixed**      | Combination of positional and keyword params | `M1 A, &P2=B`              |
+## 

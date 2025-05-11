@@ -26,16 +26,26 @@ PRINT C
 END
 ```
 Generate Pass-1 and Pass-2 and also show contents of Database table
-## With reference to assembler explain the following table  with suitable example. POT, MOT, ST, LT, BT
+## With reference to assembler explain the following table with suitable example. POT, MOT, ST, LT, BT
+
+![[Assembler#Data Structures Used in Assembler]]
 
 > [!info] Extra
 > 
 > Explain different assembler directives with examples
+> [[Assembler Directives#📘 **Common Assembler Directives (with Examples) **]]
 > 
 > Enlist different types of errors that are handled by Pass 1 and Pass 2 asssembler 
 
 # Module 3 - Macro and Macro Processor
 ## Draw a neat flowchart of Two Pass Macro Processor, Explain with the help of an example
+
+Pass 1
+![[Pass 1 of 2 Pass Assembler.excalidraw.svg]]
+
+Pass 2
+![[Pass 2 Two Pass Macro.excalidraw.svg]]
+
 ## With reference to macro, explain the following tables with examples:
 - [[Macro#Types of Parameters in Macros]]
 - MDT
