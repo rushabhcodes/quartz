@@ -1,13 +1,16 @@
 # Module 1 - System Software
 
-#### Difference between Application Software and System Software
+## Difference between Application Software and System Software
 
 ![[Difference between Application Software and System Software#^e77dfc]]
 
 # Module 2 - Assembler
-#### Explain forward reference problem and how it is handled in assembler design
-#### Explain with flowchart the design of [[Two Pass Assembler]]
-#### Numerical Based on [[Two Pass Assembler]]
+## Explain forward reference problem and how it is handled in assembler design
+
+![[Forward Reference]]
+
+## Explain with flowchart the design of Two Pass Assembler
+## Numerical Based on [[Two Pass Assembler]]
 Consider the following assemble program
 ```asm
 START 501
@@ -23,7 +26,7 @@ PRINT C
 END
 ```
 Generate Pass-1 and Pass-2 and also show contents of Database table
-#### With reference to assembler explain the following table  with suitable example. POT, MOT, ST, LT, BT
+## With reference to assembler explain the following table  with suitable example. POT, MOT, ST, LT, BT
 
 > [!info] Extra
 > 
@@ -32,13 +35,13 @@ Generate Pass-1 and Pass-2 and also show contents of Database table
 > Enlist different types of errors that are handled by Pass 1 and Pass 2 asssembler 
 
 # Module 3 - Macro and Macro Processor
-#### Draw a neat flowchart of Two Pass Macro Processor, Explain with the help of an example
-#### With reference to macro, explain the following tables with examples:
+## Draw a neat flowchart of Two Pass Macro Processor, Explain with the help of an example
+## With reference to macro, explain the following tables with examples:
 - [[Macro#Types of Parameters in Macros]]
 - MDT
 - ALA
-#### Explain macro and different features of macro with examples
-#### Explain with example Conditional Macro Expansion
+## Explain macro and different features of macro with examples
+## Explain with example Conditional Macro Expansion
 
 > [!info] Extra
 > 
@@ -49,10 +52,10 @@ Generate Pass-1 and Pass-2 and also show contents of Database table
 > Explain the working of Single Pass Macro Processor with a neat flowchart
 
 # Module 4 - Loaders and Linkers
-#### What is a loader and explain the functions of a loader with example
-#### Explain design and flowchart of absolute loader
-#### Explain the working of Direct Linking Loader with an example and also show entry in different built by DLL
-#### Explain Dynamic Linking Loader in Detail
+## What is a loader and explain the functions of a loader with example
+## Explain design and flowchart of absolute loader
+## Explain the working of Direct Linking Loader with an example and also show entry in different built by DLL
+## Explain Dynamic Linking Loader in Detail
 
 >[!info] Extra
 >
@@ -63,21 +66,21 @@ Generate Pass-1 and Pass-2 and also show contents of Database table
 >Explain different types of loaders in detail
 
 # Module 5 - Compiler Analysis Phase
-#### What are the different phases of the compiler with example
-#### Illustrate compilers internal  presentation of source program for the following statements after each phase
+## What are the different phases of the compiler with example
+## Illustrate compilers internal  presentation of source program for the following statements after each phase
 ```C
 position = initial + rate * 60
 ```
 ```C
 a = a * b - 5 * 3 / c
 ```
-#### Predictive parser LL1 (Sum based on this)
-####  Define Left Recursion and Eliminate Left Recursion
-#### Find FIRST and FOLLOW
-#### Write short note on Lex and Role of Lexical Analysis
-#### Compare Pattern, Lexemes and Token with example
-#### Error recovery techniques used in compilert
-#### Short note on Synthesized and inherited attributes
+## Predictive parser LL1 (Sum based on this)
+##  Define Left Recursion and Eliminate Left Recursion
+## Find FIRST and FOLLOW
+## Write short note on Lex and Role of Lexical Analysis
+## Compare Pattern, Lexemes and Token with example
+## Error recovery techniques used in compilert
+## Short note on Synthesized and inherited attributes
 
 >[!info] Extra]
 >
@@ -97,10 +100,10 @@ a = a * b - 5 * 3 / c
 >	- CLR1
 >	- LALR1
 # Module 6 - Compiler Synthesis phase
-#### What is code optimization? Explain various Code Optimization Techniques in detail with example
-#### Explain different issues in code generation
-#### Write a Short Note on Three Address Code
-#### Construct the Three Address Code for the following program
+## What is code optimization? Explain various Code Optimization Techniques in detail with example
+## Explain different issues in code generation
+## Write a Short Note on Three Address Code
+## Construct the Three Address Code for the following program
 ```C
 i = 1;
 x = 0;
