@@ -32,7 +32,7 @@ Generate Pass-1 and Pass-2 and also show contents of Database table
 # Module 3 - Macro and Macro Processor
 #### Draw a neat flowchart of Two Pass Macro Processor, Explain with the help of an example
 #### With reference to macro, explain the following tables with examples:
-- MNT
+- [[Macro#Types of Parameters in Macros]]
 - MDT
 - ALA
 #### Explain macro and different features of macro with examples
