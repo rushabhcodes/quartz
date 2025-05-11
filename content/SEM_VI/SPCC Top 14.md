@@ -33,4 +33,10 @@
 ![[Direct Linking Loader]]
 
 # Phases of Compiler
-!
+![[Phases of Compiler]]
+
+# Code Optimization Techniques
+![[Code Optimization Techniques]]
+
+# Forward Reference
+![[Forward Reference]]
