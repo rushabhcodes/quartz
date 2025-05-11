@@ -49,11 +49,14 @@ Pass 2
 ![[Pass 2 Two Pass Macro.excalidraw.svg]]
 
 ## With reference to macro, explain the following tables with examples:
-- [[Macro#Types of Parameters in Macros]]
+- MNT
 - MDT
 - ALA
+![[Macro Data Structure]]
 ## Explain macro and different features of macro with examples
+![[Macro]]
 ## Explain with example Conditional Macro Expansion
+![[Macro#Conditional Macro Expansion]]
 
 > [!info] Extra
 > 
