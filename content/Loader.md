@@ -1,6 +1,6 @@
 A loader is a system program that loads a binary program in memory for execution.
 
-![[Linker and Loader.excalidraw]]
+![[Linker and Loader.excalidraw.svg]]
 
 ## Basic function of a loader
 #### 🔹 **1. Allocation**

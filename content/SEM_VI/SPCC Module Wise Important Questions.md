@@ -68,6 +68,8 @@ Pass 2
 
 # Module 4 - Loaders and Linkers
 ## What is a loader and explain the functions of a loader with example
+![[Loader]]
+
 ## Explain design and flowchart of absolute loader
 ## Explain the working of Direct Linking Loader with an example and also show entry in different built by DLL
 ## Explain Dynamic Linking Loader in Detail
