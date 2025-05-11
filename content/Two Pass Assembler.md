@@ -3,4 +3,5 @@ A **Two Pass Assembler** translates an **assembly language program** into machin
 - **Pass 1**: Analyzes and collects data like labels, symbols, and literal addresses.
 - **Pass 2**: Uses the collected data to generate actual machine instructions.
 
-![[Pass 1 of 2 Pass Assembler.excalidraw]]
+![[Pass 1 of 2 Pass Assembler.excalidraw.svg]]
+![[Pass 2 of 2 Pass Assembler.excalidraw.svg]]
