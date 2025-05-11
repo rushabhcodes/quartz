@@ -2,7 +2,7 @@
 
 #### Difference between Application Software and System Software
 
-![[Difference between Application Software and System Software]]
+![[Difference between Application Software and System Software#^e77dfc]]
 
 # Module 2 - Assembler
 #### Explain forward reference problem and how it is handled in assembler design

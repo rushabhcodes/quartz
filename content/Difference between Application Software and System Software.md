@@ -8,3 +8,6 @@
 | **Machine Dependency**     | Machine-dependent.                                                    | Generally machine-independent.                                    |
 | **Portability**            | Portable through bootstrapping.                                       | Portable through cross-compilers.                                 |
 | **Developer Skill Needed** | Requires low-level programming knowledge (e.g., system architecture). | Requires knowledge of high-level programming languages.           |
+
+^e77dfc
+
