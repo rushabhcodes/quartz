@@ -10,6 +10,8 @@
 ![[Forward Reference]]
 
 ## Explain with flowchart the design of Two Pass Assembler
+
+![[Pass 1 of 2 Pass Assembler.excalidraw.svg]]
 ## Numerical Based on [[Two Pass Assembler]]
 Consider the following assemble program
 ```asm
@@ -41,7 +43,7 @@ Generate Pass-1 and Pass-2 and also show contents of Database table
 ## Draw a neat flowchart of Two Pass Macro Processor, Explain with the help of an example
 
 Pass 1
-![[Pass 1 of 2 Pass Assembler.excalidraw.svg]]
+![[Pass 1 Two Pass Macro.excalidraw.svg]]
 
 Pass 2
 ![[Pass 2 Two Pass Macro.excalidraw.svg]]
