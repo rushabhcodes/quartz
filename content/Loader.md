@@ -28,5 +28,3 @@ The loader is an essential component of the operating system responsible for man
 | **3. Relocating Loader**           | Supports relocation, enabling flexible memory assignment.                                    |
 | **4. Direct Linking Loader (DLL)** | Uses two passes to resolve external references and relocation. Builds a load module.         |
 | **5. Dynamic Loading Loader**      | Loads only required segments at runtime, using an overlay structure for memory optimization. |
-![[Macro]]
-![[Macro Data Structure]]

@@ -104,7 +104,3 @@ INCR NUM1
 |MDTC|Tracks next available index in MDT|
 |MNTC|Tracks next available index in MNT|
 |ALA|Manages argument substitution|
-
----
-
-Would you like a visual layout of how macro expansion works using these data structures?
