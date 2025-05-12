@@ -5,7 +5,7 @@
 - **Each line** of a macro definition is stored in sequence.
     
 
-#### 📘 Example:
+#### Example:
 
 ```asm
 MACRO
@@ -14,7 +14,7 @@ INCR &ARG
 MEND
 ```
 
-#### 👉 MDT:
+#### MDT:
 
 |Index|Instruction|
 |---|---|
@@ -31,7 +31,7 @@ MEND
 - Used to quickly locate macro bodies during expansion.
     
 
-#### 👉 MNT:
+#### MNT:
 
 |Index|Macro Name|MDT Index|
 |---|---|---|
@@ -78,13 +78,13 @@ MEND
 - Ensures proper parameter substitution.
     
 
-#### 📘 Macro Call:
+#### Macro Call:
 
 ```asm
 INCR NUM1
 ```
 
-#### 👉 ALA During Expansion:
+#### ALA During Expansion:
 
 |Index|Formal Arg|Actual Arg|
 |---|---|---|
