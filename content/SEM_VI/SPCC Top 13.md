@@ -9,9 +9,8 @@
 ![[Macro Data Structure]]
 
 # Two Pass Assembler
-![[Pass 1 Two Pass Macro.excalidraw.svg]]
-![[Pass 2 Two Pass Macro.excalidraw.svg]]
 
+![[Two Pass Assembler]]
 # Three Address Code
 ![[Three Address Code]]
 
@@ -20,6 +19,7 @@
 - Test whether the given Grammer is LL1 or not and construct LL(1) parsing table.
 
 # Two Pass Macro Assembler
+
 ![[Pass 1 Two Pass Macro.excalidraw.svg]]
 ![[Pass 2 Two Pass Macro.excalidraw.svg]]
 
