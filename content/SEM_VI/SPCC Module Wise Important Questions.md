@@ -1,12 +1,4 @@
-Advantages:-
-► Since the assembler does not always reside in
-the main memory, it leaves more main memory
-space available to the user.
-Disadvantages:-
-► The programmer must do memory management
-since he explicitly does the allocation and
-linking for the loader# Module 1 - System Software
-
+# Module 1
 ## Difference between Application Software and System Software
 
 ![[Difference between Application Software and System Software#^e77dfc]]

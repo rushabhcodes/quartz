@@ -13,11 +13,11 @@ The loader **does not access the source code** directly. Instead, it uses **obje
 ### 🔹 The assembler provides the loader with:
 
 1. **Length** of the object code.
-    
+
 2. **USE Table**: List of external symbols **used but not defined** in the segment.
-    
+
 3. **DEFINITION Table**: List of symbols **defined in the current segment** and **referred by other segments**.
-    
+
 
 ---
 
@@ -26,7 +26,7 @@ The loader **does not access the source code** directly. Instead, it uses **obje
 ### 1. **External Symbol Dictionary (ESD)**
 
 - Contains symbol name, segment type (SD, LD, ER), and its relative/absolute address.
-    
+
 
 **Example:**
 
@@ -41,16 +41,16 @@ The loader **does not access the source code** directly. Instead, it uses **obje
 ### 2. **Text (TXT) Records**
 
 - Contains **actual object code**, i.e., machine instructions.
-    
+
 
 **Example:**
 
 ```asm
 LOAD 1, POINTER   ; 1,48
 LD-ADDR 15, SUM   ; 15,56
-BALR 14, 15       ; call subroutine
+BALR 14, 15   ; call subroutine
 STORE 1, RESULT   ; 1,52
-HLT               ; halt
+HLT   ; halt
 ```
 
 ---
@@ -58,7 +58,7 @@ HLT               ; halt
 ### 3. **Relocation and Linkage Directory (RLD) Records**
 
 - Contains information about where **relocation** is needed and what **external references** should be resolved.
-    
+
 
 **Example:**
 
@@ -72,7 +72,7 @@ HLT               ; halt
 ### 4. **END Record**
 
 - Indicates end of the program and **entry/start point for execution**.
-    
+
 
 ---
 
@@ -116,10 +116,9 @@ HLT
 ## ✅ **Advantages of Direct Linking Loader:**
 
 1. Supports **multiple procedures and data segments**.
-    
+
 2. Allows **independent translation** of program modules.
-    
+
 3. Enables **modular design**, supports **subroutines**, **data sharing**, and **access control**.
-    
+
 4. Provides **relocation and linking** flexibility.
-    

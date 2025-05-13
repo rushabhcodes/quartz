@@ -21,10 +21,10 @@ The loader is an essential component of the operating system responsible for man
 
 ## Types of Loader / Loader Schemas 
 
-| **Loader Type**                    | **Description**                                                                              |
-| ---------------------------------- | -------------------------------------------------------------------------------------------- |
-| **1. Compile and Go Loader**       | The assembler loads the machine code directly into memory; no object file is created.        |
-| **2. Absolute Loader**             | Loads programs at specified memory addresses. Allocation and linking are manual.             |
-| **3. Relocating Loader**           | Supports relocation, enabling flexible memory assignment.                                    |
-| **4. Direct Linking Loader (DLL)** | Uses two passes to resolve external references and relocation. Builds a load module.         |
-| **5. Dynamic Loading Loader**      | Loads only required segments at runtime, using an overlay structure for memory optimization. |
+| **Loader Type**                        | **Description**                                                                              |
+| -------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **1. Compile and Go Loader**           | The assembler loads the machine code directly into memory; no object file is created.        |
+| **2. [[Absolute Loader]]**             | Loads programs at specified memory addresses. Allocation and linking are manual.             |
+| **3. Relocating Loader**               | Supports relocation, enabling flexible memory assignment.                                    |
+| **4. [[Direct Linking Loader]] (DLL)** | Uses two passes to resolve external references and relocation. Builds a load module.         |
+| **5. Dynamic Loading Loader**          | Loads only required segments at runtime, using an overlay structure for memory optimization. |
