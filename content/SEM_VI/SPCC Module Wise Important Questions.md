@@ -1,8 +1,10 @@
-# Module 1
+8# Module 1
 ## Difference between Application Software and System Software
 
 ![[Difference between Application Software and System Software#^e77dfc]]
 
+## Difference between Compiler and Interpreter
+![[Difference between Compiler and Interpreter]]
 # Module 2 - Assembler
 ## Explain forward reference problem and how it is handled in assembler design
 

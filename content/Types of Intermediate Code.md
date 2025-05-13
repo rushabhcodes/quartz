@@ -10,8 +10,7 @@ Intermediate Code (IC) is an abstract representation of the source program gener
         
     - Leaf nodes represent **operands (variables/constants)**.
         
-- More concise than a parse tree.
-    
+- More concise than a parse tree.    
 
 **Example (for expression `a + b * c`):**
 
