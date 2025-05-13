@@ -82,14 +82,17 @@ This model is **ideal for program development and testing environments**, especi
 - Uses the **`ld.so` / `ld-linux.so`** linker.
     
 - Dynamic libraries are `.so` files.
-    
 
 #### Windows:
 
 - Uses `.dll` files (Dynamic Link Libraries).
     
 - Dynamic linking handled by the Windows loader.
-    
+
+**macOS:**
+- Uses `.dylib` files (Dynamic Library).
+
+-  This **Dynamic Loader** (dyld) is responsible for loading, linking, and relocating dynamic libraries at runtime.
 
 ---
 
