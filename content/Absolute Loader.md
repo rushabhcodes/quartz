@@ -8,15 +8,8 @@ The loader simply does the task of loading the object file into the memory and i
 
 ![[Absolute Loader.excalidraw.svg]]
 
-### Advantages
+Advantages
 - Since the assembler does not always reside in the main memory, it leaves more main memory space available to the user.
-- Requires no relocation as addresses are fixed in the code.
-- Loads programs quickly due to direct memory placement.
-- Has a simple design because it performs no address modification.
-- Consumes minimal system resources during loading.
-- Ensures predictable execution by using absolute memory locations.
-- Works well in systems without operating system support.
-- Avoids the need for external symbol resolution or linking.
 
-### Disadvantages
+Disadvantages
 - The programmer must do memory management since he explicitly does the allocation and linking for the loader.

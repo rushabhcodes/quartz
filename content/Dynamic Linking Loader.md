@@ -89,7 +89,7 @@ This model is **ideal for program development and testing environments**, especi
     
 - Dynamic linking handled by the Windows loader.
 
-#### **macOS:**
+**macOS:**
 - Uses `.dylib` files (Dynamic Library).
 
 -  This **Dynamic Loader** (dyld) is responsible for loading, linking, and relocating dynamic libraries at runtime.

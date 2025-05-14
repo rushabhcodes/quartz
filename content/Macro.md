@@ -52,8 +52,8 @@ AGO < sequence symbol >
 ### Example :
 A macro named EVAL is to be defined such that the call `EVAL A, B, C` would generate efficient code to evaluate the expression A-B+C by using AREG. When the first two parameters of a call are identical , EVAL should generate a single MOVER instruction to load the 3 rd parameter into AREG.
 ```
-MACRO
-	EVAL    &X, &Y, &Z
+		MACRO
+		EVAL    &X, &Y, &Z
 		AIF     (&X EQ &Y)   .LABEL
 		MOVER   AREG, &X
 		SUB     AREG, &Y
