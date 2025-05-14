@@ -3,6 +3,11 @@
 
 ![[Traditional Cipher]]
 
+![[Substitution Cipher Example#1. **Caesar Cipher**]]
+
+![[Transposition Cipher Example#**1. Rail Fence Cipher**]]
+
+
 ## Explain Security Goals, Services and Mechanism or relation between Security service and Mechanism 
 ![[Security Goals, Services, and Mechanisms]]
 

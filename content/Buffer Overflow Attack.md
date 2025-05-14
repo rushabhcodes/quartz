@@ -1,0 +1,1 @@
+A **buffer overflow** is a venerability that arises when a program writes more data to a memory buffer than it can hold. This causes the excess data to overflow into adjacent memory locations, potentially corrupting data or altering the programs control flow. 
