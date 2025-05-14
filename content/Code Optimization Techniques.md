@@ -13,7 +13,7 @@ There are two types:
 
 ---
 
-## 🔹 **1. Constant Folding**
+## **1. Constant Folding**
 
 - **Description**: Compile-time evaluation of constant expressions.
     
@@ -34,7 +34,7 @@ int x = 15;
 
 ---
 
-## 🔹 **2. Constant Propagation**
+## **2. Constant Propagation**
 
 - **Description**: Replaces variables with known constant values.
     
@@ -56,7 +56,7 @@ int b = 10 + 5;
 
 ---
 
-## 🔹 **3. Common Sub-expression Elimination (CSE)**
+## **3. Common Sub-expression Elimination (CSE)**
 
 - **Description**: Eliminates duplicate expressions already computed.
     
@@ -79,7 +79,7 @@ t2 = t1;
 
 ---
 
-## 🔹 **4. Dead Code Elimination**
+## **4. Dead Code Elimination**
 
 - **Description**: Removes code that does not affect program output.
     
@@ -101,7 +101,7 @@ int x = 20;
 
 ---
 
-## 🔹 **5. Strength Reduction**
+## **5. Strength Reduction**
 
 - **Description**: Replaces expensive operations with cheaper equivalents.
     
@@ -122,7 +122,7 @@ x = a + a;      // faster addition
 
 ---
 
-## 🔹 **6. Loop Invariant Code Motion**
+## **6. Loop Invariant Code Motion**
 
 - **Description**: Moves code that computes the same result in every iteration **outside the loop**.
     
@@ -149,7 +149,7 @@ for (int i = 0; i < n; i++) {
 
 ---
 
-## 🔹 **7. Copy Propagation**
+## **7. Copy Propagation**
 
 - **Description**: Replaces occurrences of variables that are copies of others.
     
@@ -171,7 +171,7 @@ c = a + 1;
 
 ---
 
-## 🔹 **8. Peephole Optimization**
+## **8. Peephole Optimization**
 
 - **Description**: Looks at small sliding windows ("peepholes") of instructions to perform local optimizations.
     

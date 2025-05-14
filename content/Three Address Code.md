@@ -2,7 +2,7 @@
 
 ---
 
-### 1. **Structure:**
+### 1. **Structure**
 
 Each instruction typically has the form:
 
@@ -21,7 +21,7 @@ Where:
 
 ---
 
-### 2. **Features:**
+### 2. **Features**
 
 - Simplifies code generation and optimization.
     
@@ -32,7 +32,7 @@ Where:
 
 ---
 
-### 3. **Example:**
+### 3. **Example**
 
 For the expression:
 
@@ -52,7 +52,7 @@ t3 = t2 + d
 
 ### 4. **Forms of TAC Representation:**
 
-#### a. **Quadruples:**
+#### a. **Quadruples**
 It is structure with consist of 4 fields namely op, arg1, arg2 and result.
 
 Op denotes the operator and arg1 and arg2 denotes the two operands and result is used to store the result of the expression.
@@ -68,7 +68,7 @@ Advantages
 Disadvantages
 - Contain lot of temporaries.
 - Temporary variable creation increases time and space complexity.
-#### b. **Triples:**
+#### b. **Triples**
 This representation doesn’t make use of extra temporary variable to represent a single operation instead when a reference to another triple’s value is needed, a pointer to that triple is used.
 
 So, it consist of only three fields namely op, arg1 and arg2.
@@ -81,7 +81,7 @@ So, it consist of only three fields namely op, arg1 and arg2.
 
 ---
 
-### 5. **Applications:**
+### 5. **Applications**
 
 - Intermediate step in code optimization.
 
@@ -90,6 +90,6 @@ So, it consist of only three fields namely op, arg1 and arg2.
 
 ---
 
-### **In Summary:**
+### **In Summary**
 
 Three Address Code is a simple, flexible, and powerful way to represent high-level expressions and control structures, making it easier for compilers to optimize and generate machine-level code.
