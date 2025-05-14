@@ -177,6 +177,3 @@ Effective code generation requires solving multiple challenges:
 - Efficiency (execution speed, memory usage)
 
 - Portability (target machine awareness)
-
-
-By carefully addressing these **issues**, the compiler can generate **optimized and executable machine code** for the target architecture.
