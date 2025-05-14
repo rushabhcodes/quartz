@@ -7,6 +7,56 @@ An **assembler** is a **system program** that **translates an assembly language 
 3. Handles **symbols** (labels), **constants**, and **literals**.
 4. Supports **forward referencing** (resolves references made before symbol definitions).   
 5. Generates **intermediate code** and final **machine code**.
+## Types of Statements Used in an Assembler
+
+1. **Imperative Statements**
+    
+    - These are actual machine instructions that perform operations like addition, movement of data, comparison, branching, etc.
+    - They correspond directly to CPU instructions.
+    - **Examples:** `MOV`, `ADD`, `SUB`, `JMP`, `CMP`
+        
+2. **Declarative Statements**
+    
+    - These are used to declare and define data or storage areas.
+    - They do not generate executable machine code but reserve space in memory.
+    - **Examples:**
+        - `DS` (Define Storage)
+        - `DC` (Define Constant)
+
+3. **Assembler Directives (Pseudo-operations)**
+    
+    - These are instructions to the assembler itself and not converted into machine code.
+    - They are used for program organization, memory allocation, macro handling, etc.
+    - **Examples:**
+        - `START` – Indicates the beginning of the program.
+        - `END` – Marks the end of the program.
+        - `ORIGIN` – Used to specify the next instruction location.
+        - `EQU` – Equates a symbol to a value or address.
+        - `LTORG` – Specifies the location of literal pool.
+
+4. **Macro Definition and Expansion Statements**
+    
+    - Used in macro processors for defining and calling macros.
+    - **Macro Definition Statements:**
+        - `MACRO` – Begins macro definition.
+        - `MEND` – Ends macro definition.
+    - **Macro Call Statements:** Invocations of previously defined macros.
+
+5. **Comment Statements**
+    
+    - Lines starting with a comment symbol (e.g., `;`) that are ignored by the assembler.
+    - Used to improve readability and documentation of the code.
+    - 
+#### Summary Table
+
+| Statement Type       | Purpose                         | Example(s)                   |
+| -------------------- | ------------------------------- | ---------------------------- |
+| Imperative           | Perform operations/instructions | `MOV A, B`                   |
+| Declarative          | Define constants or storage     | `DC 5`, `DS 1`               |
+| Assembler Directives | Guide the assembler             | `START`, `END`, `EQU`        |
+| Macro Statements     | Define and use macros           | `MACRO`, `MEND`, macro calls |
+| Comment Statements   | Documentation and clarity       | `; This is a comment`        |
+
 
 ## Data Structures Used in Assembler
 
