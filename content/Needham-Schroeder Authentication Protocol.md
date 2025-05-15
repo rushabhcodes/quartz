@@ -103,7 +103,3 @@ This explanation focuses on the **symmetric-key version**, which uses **shared s
 #### **8. Conclusion**
 
 The Needham-Schroeder authentication protocol is a foundational approach for **secure key exchange and authentication** in symmetric cryptography. It laid the groundwork for protocols like **Kerberos**, which include additional features such as timestamps to enhance security.
-
----
-
-Let me know if you’d like a labeled diagram or a version of the public-key variant as well.

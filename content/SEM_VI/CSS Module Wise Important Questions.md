@@ -8,12 +8,47 @@
 ![[Transposition Cipher Example#**1. Rail Fence Cipher**]]
 
 
-## Explain Security Goals, Services and Mechanism or relation between Security service and Mechanism 
+## Explain Security Goals, Services and Mechanism or relation between Security service and Mechanism
+
 ![[Security Goals, Services, and Mechanisms]]
 
+## State the rules for finding Euler’s phi function
+
+![[Euler’s phi function]]
+## Explain Euclidean Algorithm
+
+![[Euclidean Algorithm]]
 # Module 2
 ## Explain DES Algorithm in Detail
 
+## Explain Kerberos and Working of TGS in Kerberos
+
+![[Kerberos]]
+
+## Explain RSA
+
+![[RSA]]
+## Explain man in the middle attack on Diffie Hellman. Explain how to overcome the same.
+
+![[Diffie-Hellman Key Exchange]]
+
+![[Man-in-the-Middle (MITM) Attack on Diffie-Hellman Key Exchange]]
+
+## Discuss in detail block cipher modes of operation
+
+![[Block Cipher]]
+
+## What is PKI? List its components.
+
+![[PKI]]
+
+## Explain Advanced Encryption Standard (AES) in detail
+
+![[Advanced Encryption Standard]]
+
+## Explain RC4 stream cipher
+
+![[RC4 Stream Cipher]]
 # Module 3
 
 ## Explain cryptographic hash functions along with the properties of a secure hash function. or What are the properties of a hash function? Explain role of hash function in security
