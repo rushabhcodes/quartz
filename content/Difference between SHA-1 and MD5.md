@@ -1,4 +1,4 @@
-## 🧮 1. **Basic Details**
+## 1. **Basic Details**
 
 |Feature|**MD5**|**SHA-1**|
 |---|---|---|
@@ -10,7 +10,7 @@
 
 ---
 
-## 🔐 2. **Security**
+## 2. **Security**
 
 |Aspect|**MD5**|**SHA-1**|
 |---|---|---|
@@ -18,7 +18,7 @@
 |Preimage Resistance|Poor|Better than MD5 but still broken|
 |Cryptanalysis|Broken (many published attacks)|Broken (Google's SHAttered attack)|
 
-### 🔥 Real-World Attacks:
+### Real-World Attacks:
 
 - **MD5:** Flame malware, rogue certificates, password hashes cracked.
 
@@ -27,7 +27,7 @@
 
 ---
 
-## ✅ 3. Use Cases (Current Status)
+## 3. Use Cases (Current Status)
 
 | Use Case           | MD5                       | SHA-1                     |
 | ------------------ | ------------------------- | ------------------------- |
@@ -45,7 +45,7 @@
 
 ---
 
-## 🧪 Example Hashes:
+## Example Hashes:
 
 Plaintext: `hello`
 
@@ -56,7 +56,7 @@ Plaintext: `hello`
 
 ---
 
-## 🧠 Summary
+## Summary
 
 |Feature|MD5|SHA-1|
 |---|---|---|

@@ -14,7 +14,19 @@
 # Module 2
 ## Explain DES Algorithm in Detail
 
+# Module 3
 
+## Explain cryptographic hash functions along with the properties of a secure hash function. or What are the properties of a hash function? Explain role of hash function in security
+
+![[Cryptographic Hash Functions]]
+
+## Difference between SHA 1 and MD 5
+
+![[Difference between SHA-1 and MD5]]
+
+## What goals are served using a message digest? Explain using MD5.
+
+![[Message Digest]]
 # Module 4
 
 ## What is the need for message authentication? List various techniques used for message authentication. Explain any one of them.
@@ -31,7 +43,17 @@
 
 ![[Need of Digital Certificates and Signatures]]
 
-## 
+## Discuss various attacks on digital signatures and the methods by which they can be overcome.
+
+![[Attacks on Digital Signature]]
+
+## Define non-repudiation and authentication. Show with example how it can be achieved.
+
+![[Non-Repudiation]]
+
+## Explain challenge response-based authentication tokens
+
+![[Challenge-Response Based Authentication Tokens]]
 # Module 5
 
 ## What is the Need for SSL? Explain Handshake Protocol in SSL.
