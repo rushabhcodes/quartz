@@ -28,7 +28,8 @@
 ![[X.509 Certificate Format]]
 
 ## Why are digital certificates and signatures required ? What is the role of digital signature in digital certificates? Explain any one digital signature algorithm/Discuss RSA as a digital signature algorithm
-!
+
+![[]]
 # Module 5
 
 ## What is the Need for SSL? Explain Handshake Protocol in SSL.
