@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T10:18
+updated: 2025-05-15T10:18
+---
 #### **1. Introduction**
 
 A **message digest** is a fixed-length numerical representation (hash) of a message or data, generated using a **cryptographic hash function** such as **MD5 (Message Digest 5)**. It is widely used in various fields of computer security to ensure the **integrity, authenticity, and non-repudiation** of data.

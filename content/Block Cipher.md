@@ -1,3 +1,7 @@
+---
+created: 2025-05-10T10:50
+updated: 2025-05-15T11:06
+---
 #### **Introduction:**
 
 A **block cipher** is a symmetric key cipher which encrypts data in fixed-size blocks (e.g., 64-bit or 128-bit blocks). To encrypt messages longer than a single block or of arbitrary size, **modes of operation** are employed. These modes define how blocks are linked and processed to ensure confidentiality and sometimes integrity.

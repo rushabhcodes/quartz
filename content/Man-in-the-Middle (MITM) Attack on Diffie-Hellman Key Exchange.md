@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T11:01
+updated: 2025-05-15T11:04
+---
 #### **MITM Attack on Diffie-Hellman:**
 
 In a **Man-in-the-Middle attack**, an attacker (say, Mallory) intercepts and alters the messages between Alice and Bob:

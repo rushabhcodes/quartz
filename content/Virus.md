@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T08:16
+updated: 2025-05-15T08:16
+---
 A **computer virus** is a type of malicious code that **attaches itself to legitimate programs or files** and spreads when the infected file is executed by a user.
 
 #### **Characteristics:**

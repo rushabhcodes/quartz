@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T10:04
+updated: 2025-05-15T10:04
+---
 ### **Why Are Digital Certificates and Digital Signatures Required?**
 
 In digital communication, **trust**, **authenticity**, **integrity**, and **non-repudiation** are critical. Digital certificates and digital signatures address these needs:

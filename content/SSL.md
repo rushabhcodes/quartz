@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T08:19
+updated: 2025-05-15T08:23
+---
 #### **1. Introduction**
 
 SSL (Secure Sockets Layer) is a **cryptographic protocol** designed to provide **secure communication over a network**, especially the Internet. It ensures that the data transmitted between a client (usually a browser) and a server remains **confidential, authenticated, and tamper-proof**.

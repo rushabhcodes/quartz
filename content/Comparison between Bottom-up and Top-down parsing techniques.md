@@ -1,3 +1,7 @@
+---
+created: 2025-05-14T22:36
+updated: 2025-05-14T22:36
+---
 | **Aspect**                       | **Top-Down Parser**                                                        | **Bottom-Up Parser**                                             |
 | -------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | **Definition**                   | Starts parsing from the start symbol and tries to derive the input string. | Starts from the input string and reduces it to the start symbol. |

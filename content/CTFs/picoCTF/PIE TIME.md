@@ -15,6 +15,8 @@ tags:
   - easy
   - picocCTF2025
 link: https://play.picoctf.org/practice/challenge/490
+created: 2025-05-08T18:50
+updated: 2025-05-08T18:50
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/490)
 Can you try to get the flag? Beware we have PIE!

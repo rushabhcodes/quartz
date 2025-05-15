@@ -1,3 +1,7 @@
+---
+created: 2025-05-14T21:51
+updated: 2025-05-14T21:51
+---
 ### **Definition:**
 
 A **Direct Linking Loader** is a **relocatable loader** that performs both **loading** and **linking** at runtime. It reads object modules, links external references, and loads code into memory by resolving relative addresses.

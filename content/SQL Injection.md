@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T08:03
+updated: 2025-05-15T08:09
+---
 ## **1. Introduction**
 
 **SQL Injection (SQLi)** is a type of security vulnerability that occurs when an attacker is able to manipulate a Structured Query Language (SQL) query by injecting malicious input into a web application. It typically results from improper input validation and poor coding practices, allowing unauthorized access to a database.

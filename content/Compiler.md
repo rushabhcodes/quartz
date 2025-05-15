@@ -1,3 +1,7 @@
+---
+created: 2025-05-14T21:51
+updated: 2025-05-14T21:51
+---
 ## **Phases of a Compiler**
 
 A **compiler** is a complex software system that translates a **high-level programming language** (like C, Java) into **low-level machine code** that a computer can execute. This translation is done in **multiple systematic phases**, each performing a specific task to ensure the final code is **correct**, **optimized**, and **efficient**.

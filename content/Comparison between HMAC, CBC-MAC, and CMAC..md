@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T10:46
+updated: 2025-05-15T10:47
+---
 |**Aspect**|**HMAC**|**CBC-MAC**|**CMAC**|
 |---|---|---|---|
 |**Full Form**|Hash-based Message Authentication Code|Cipher Block Chaining Message Auth. Code|Cipher-based Message Authentication Code|

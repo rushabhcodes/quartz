@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T08:56
+updated: 2025-05-15T08:57
+---
 ### **What is an ICMP Flood Attack?**
 
 An **ICMP Flood Attack**, also known as a **Ping Flood**, is a type of **Denial-of-Service (DoS)** attack where the attacker overwhelms the target system with a high volume of **ICMP Echo Request (ping) packets**.

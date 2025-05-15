@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T10:39
+updated: 2025-05-15T10:45
+---
 #### **A. SHA-1 (Secure Hash Algorithm 1)**
 
 - **Developed by**: NSA and published by NIST in 1995.

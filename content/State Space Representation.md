@@ -1,3 +1,7 @@
+---
+created: 2025-05-10T15:32
+updated: 2025-05-10T15:51
+---
 A **state space representation** refers to a formal model of all possible configurations (states) of a system or problem, along with the actions (or transitions) that move the system from one state to another.
 ## Definition
 

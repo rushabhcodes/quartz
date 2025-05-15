@@ -1,3 +1,7 @@
+---
+created: 2025-05-08T18:50
+updated: 2025-05-08T18:50
+---
 > [!note] Note Title
 > This is a note callout.
 

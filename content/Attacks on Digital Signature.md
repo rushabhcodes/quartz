@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T10:07
+updated: 2025-05-15T10:07
+---
 #### **1. Introduction**
 
 A **digital signature** is a cryptographic technique used to verify the authenticity, integrity, and non-repudiation of digital messages or documents. Despite their widespread use, digital signatures are susceptible to various attacks. Understanding these threats and the defenses against them is essential for secure communication.

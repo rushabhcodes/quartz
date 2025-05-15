@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T08:38
+updated: 2025-05-15T08:43
+---
 
 ## Introduction to PGP (Pretty Good Privacy)
 

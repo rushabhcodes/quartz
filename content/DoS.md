@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T08:50
+updated: 2025-05-15T08:56
+---
 ## What is a DoS Attack?
 
 **DoS (Denial of Service) Attack** is a cyberattack aimed at making a network, service, or system unavailable to its intended users by overwhelming it with excessive traffic or exploiting vulnerabilities. The goal is to **disrupt normal functioning** so legitimate users cannot access resources like websites, servers, or applications.

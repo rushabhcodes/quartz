@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T11:09
+updated: 2025-05-15T11:09
+---
 #### **Definition:**
 
 The **Advanced Encryption Standard (AES)** is a **symmetric block cipher** used for encrypting and decrypting data securely. It was established as the **encryption standard** by the U.S. National Institute of Standards and Technology (NIST) in **2001**, replacing the older **Data Encryption Standard (DES)** due to its vulnerability to brute-force attacks.

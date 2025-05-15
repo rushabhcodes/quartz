@@ -1,3 +1,7 @@
+---
+created: 2025-05-10T23:14
+updated: 2025-05-10T23:23
+---
 ### **Quantifiers in Artificial Intelligence (especially in First-Order Logic)**
 
 Quantifiers are logical symbols used in **first-order logic (FOL)** to express **statements about collections of objects**. They allow us to generalize or specify conditions that apply to **all or some** elements in a domain.

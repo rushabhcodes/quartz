@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T09:00
+updated: 2025-05-15T09:00
+---
 **Definition:**  
 Packet sniffing is the process of **intercepting and logging network traffic** as it passes over a digital network.
 

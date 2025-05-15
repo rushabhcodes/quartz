@@ -1,3 +1,7 @@
+---
+created: 2025-05-14T22:50
+updated: 2025-05-14T22:51
+---
 ### **1. Rail Fence Cipher**
 
 **Definition**:  

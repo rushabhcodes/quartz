@@ -1,3 +1,7 @@
+---
+created: 2025-05-12T01:18
+updated: 2025-05-14T10:50
+---
 **Code generation** is the final phase of a compiler, where intermediate representation (IR) is translated into **target machine code**. The primary goal is to generate **correct**, **efficient**, and **optimized code** for the target architecture.
 
 Below are the **main issues and challenges** faced during code generation:

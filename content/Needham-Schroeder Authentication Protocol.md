@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T10:50
+updated: 2025-05-15T10:50
+---
 #### **1. Introduction**
 
 The **Needham-Schroeder protocol** is a classic cryptographic protocol used to establish **mutual authentication** and a **shared secret key** between two parties over an insecure network. It was proposed by **Roger Needham and Michael Schroeder** in 1978 and uses a **trusted Key Distribution Center (KDC)** to facilitate secure communication between users.

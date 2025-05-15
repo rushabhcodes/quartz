@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T09:00
+updated: 2025-05-15T09:01
+---
 **Definition:**  
 ARP spoofing is an attack where the attacker sends **fake ARP messages** to associate their MAC address with the IP of another device (like a gateway).
 

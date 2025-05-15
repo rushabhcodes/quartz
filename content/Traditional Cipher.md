@@ -1,3 +1,7 @@
+---
+created: 2025-05-12T15:44
+updated: 2025-05-14T22:50
+---
 Traditional ciphers are cryptographic techniques used historically to secure messages. They rely on simple mathematical or letter-based manipulations rather than complex algorithms like modern encryption. These ciphers are generally categorized into:
 
 1. **Substitution ciphers** – replace elements of the plaintext with ciphertext (e.g., letters replaced with other letters).

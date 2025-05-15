@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T11:02
+updated: 2025-05-15T11:04
+---
 #### **Introduction:**
 
 The **Diffie-Hellman Key Exchange** is a cryptographic method that allows two parties to establish a shared secret over an insecure channel. While the protocol allows secure key exchange, it is **vulnerable to a Man-in-the-Middle (MITM) attack** if the identities of the communicating parties are not authenticated.

@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T11:10
+updated: 2025-05-15T11:11
+---
 #### **Definition:**
 
 **RC4** (Rivest Cipher 4 or Ron’s Code 4) is a widely used **symmetric key stream cipher** designed by **Ron Rivest** in 1987 for RSA Security. It was one of the most popular stream ciphers due to its simplicity and speed in software implementations.

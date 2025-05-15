@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T08:16
+updated: 2025-05-15T08:16
+---
 A **computer worm** is a standalone malicious program that **replicates and spreads automatically across networks**, without needing to attach to a host file or require user interaction.
 
 #### **Characteristics:**

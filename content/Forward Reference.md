@@ -1,3 +1,7 @@
+---
+created: 2025-05-11T19:10
+updated: 2025-05-11T19:21
+---
 A forward reference occurs when a label is used as an operand, for example as a branch target, earlier in the code than the definition of the label. The assembler cannot know the address of the forward reference label until it reads the definition of the label.
 
 Example

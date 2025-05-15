@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T09:13
+updated: 2025-05-15T09:13
+---
 ## **What is the Need for Message Authentication?**
 
 Message authentication is essential in ensuring secure communication over networks. It provides:

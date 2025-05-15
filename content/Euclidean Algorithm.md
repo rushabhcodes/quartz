@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T10:52
+updated: 2025-05-15T10:54
+---
 #### **Definition**
 
 The **Euclidean Algorithm** is a method for finding the **Greatest Common Divisor (GCD)** of two integers. The GCD of two numbers is the largest number that divides both of them without leaving a remainder.

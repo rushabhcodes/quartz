@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T10:14
+updated: 2025-05-15T10:14
+---
 ### **Cryptographic Hash Functions and Their Role in Security**
 
 #### **1. Definition**

@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T10:09
+updated: 2025-05-15T10:10
+---
 ### **1. Definitions**
 
 #### **Non-Repudiation:**

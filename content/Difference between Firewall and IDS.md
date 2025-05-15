@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T08:49
+updated: 2025-05-15T10:56
+---
 | Feature                | Firewall                                | Intrusion Detection System ([[IDS]])    |
 | ---------------------- | --------------------------------------- | --------------------------------------- |
 | **Purpose**            | Blocks/filters unauthorized traffic     | Detects suspicious/malicious activity   |

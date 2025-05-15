@@ -1,3 +1,7 @@
+---
+created: 2025-05-10T19:42
+updated: 2025-05-10T22:49
+---
 To represent the **flat tire replacement problem** in **Action Description Language (ADL)**—a formal language used in AI planning—we’ll define:
 
 1. **Initial state**

@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T11:16
+updated: 2025-05-15T11:28
+---
 ### **Rules for Finding Euler’s Phi Function (φ(n))**
 
 Euler’s phi (φ) function, also called Euler’s totient function, counts the number of positive integers less than or equal to `n` that are **coprime to `n`** (i.e., integers whose greatest common divisor (GCD) with `n` is 1).

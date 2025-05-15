@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T10:48
+updated: 2025-05-15T10:49
+---
 #### **1. Introduction**
 
 Public key cryptography relies on two keys: a **public key** for encryption and a **private key** for decryption. One of the major challenges in public key cryptosystems is the **secure and authentic distribution** of public keys. If an attacker can substitute a fake public key in place of a legitimate one, they can decrypt, modify, or impersonate communication. Thus, **public key distribution** is a critical part of securing cryptographic systems.

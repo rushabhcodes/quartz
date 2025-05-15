@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T11:13
+updated: 2025-05-15T11:14
+---
 ### **Introduction:**
 
 **RSA** (Rivest-Shamir-Adleman) is one of the first public-key cryptosystems and is widely used for **secure data transmission**. It is based on the mathematical properties of large prime numbers and the difficulty of factoring large integers. RSA is used for both **encryption** and **digital signatures**.

@@ -1,3 +1,7 @@
+---
+created: 2025-05-14T23:18
+updated: 2025-05-15T00:04
+---
 A **buffer overflow** is a venerability that arises when a program writes more data to a memory buffer than it can hold. This causes the excess data to overflow into adjacent memory locations, potentially corrupting data or altering the programs control flow. Attackers can exploit this behavior to execute arbitrary code, crash the program or access sensitive information.
 
 There are two main types of buffer overflows:

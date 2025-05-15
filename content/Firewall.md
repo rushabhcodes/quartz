@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T08:47
+updated: 2025-05-15T08:48
+---
 ## 🔥 **Firewall: Intro**
 
 A **firewall** is a critical network security device or software that acts as a barrier between a trusted internal network and untrusted external networks such as the Internet. It monitors, filters, and controls network traffic based on a defined set of security rules to prevent unauthorized access and threats.

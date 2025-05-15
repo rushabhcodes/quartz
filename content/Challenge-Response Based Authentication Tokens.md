@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T10:11
+updated: 2025-05-15T10:12
+---
 ## **Challenge-Response Based Authentication Tokens**
 
 ### **1. Introduction**

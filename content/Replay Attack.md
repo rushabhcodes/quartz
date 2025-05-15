@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T09:02
+updated: 2025-05-15T09:04
+---
 ### **What is a Replay Attack?**
 
 A **replay attack** is a type of network attack in which a valid data transmission is maliciously captured and retransmitted by an attacker. The goal is to **trick the recipient into thinking the message is legitimate and original**, thereby gaining unauthorized access or triggering unintended actions.

@@ -1,3 +1,7 @@
+---
+created: 2025-05-11T20:06
+updated: 2025-05-11T20:09
+---
 ## **What are Assembler Directives?**
 
 Assembler directives (also called **pseudo-operations**) are **instructions for the assembler**, not the CPU.  

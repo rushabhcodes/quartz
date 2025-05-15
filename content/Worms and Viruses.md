@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T08:12
+updated: 2025-05-15T08:16
+---
 #### **1. Introduction**
 
 Computer worms and viruses are types of **malicious software (malware)** designed to disrupt, damage, or gain unauthorized access to computer systems. Although both are self-replicating, they differ in how they spread and execute.

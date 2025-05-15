@@ -1,3 +1,7 @@
+---
+created: 2025-05-14T21:51
+updated: 2025-05-14T21:51
+---
 An **assembler** is a **system program** that **translates an assembly language program** into **machine code (object code)** that can be executed by the CPU.
 
 ## Key Functions of an Assembler

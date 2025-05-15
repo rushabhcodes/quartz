@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T09:15
+updated: 2025-05-15T10:55
+---
 ### **What is a Digital Certificate?**
 
 A **digital certificate** is an electronic document used to prove the ownership of a public key. It is issued by a **Certificate Authority (CA)** and binds the public key with an entity (individual, organization, server, etc.).

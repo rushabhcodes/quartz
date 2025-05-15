@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T09:08
+updated: 2025-05-15T09:08
+---
 ### **What is an Intrusion Detection System (IDS)?**
 
 An **Intrusion Detection System (IDS)** is a security mechanism used to detect unauthorized access or abnormal activities in a network or system. It monitors traffic, analyzes events, and raises alerts when it identifies potential threats.

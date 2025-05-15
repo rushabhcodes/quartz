@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T09:17
+updated: 2025-05-15T09:17
+---
 ### **X.509 Certificate Format**
 
 The most widely used format for digital certificates is **X.509**, defined by the ITU-T standard. It is used in **SSL/TLS, HTTPS, S/MIME**, and many security protocols.

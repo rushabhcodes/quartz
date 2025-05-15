@@ -1,3 +1,7 @@
+---
+created: 2025-05-15T11:12
+updated: 2025-05-15T11:13
+---
 ### **Introduction to Kerberos:**
 
 **Kerberos** is a **network authentication protocol** designed to provide **strong authentication** for client/server applications using **secret-key cryptography**. It was developed at the Massachusetts Institute of Technology (MIT) and is based on symmetric key cryptography and a trusted third party.

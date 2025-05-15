@@ -1,3 +1,7 @@
+---
+created: 2025-05-14T21:51
+updated: 2025-05-14T21:51
+---
 In an absolute loader the assembler generates the object file which can be stored on secondary storage instead of being directly loaded into the memory.
 
 Along with each object file, the assembler also gives information about starting address and length of that object file.

@@ -1,3 +1,7 @@
+---
+created: 2025-05-11T23:36
+updated: 2025-05-12T15:26
+---
 ## 1. **Macro Definition Table (MDT)**
 
 - **Purpose**: Stores the **body** of all macro definitions (i.e., instructions between `MACRO` and `MEND`).

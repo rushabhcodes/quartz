@@ -1,3 +1,7 @@
+---
+created: 2025-05-12T16:01
+updated: 2025-05-15T11:29
+---
 ### **1. Security Goals**
 
 Security goals define **what** needs to be protected in an information system. These are high-level objectives that guide the design and implementation of security.

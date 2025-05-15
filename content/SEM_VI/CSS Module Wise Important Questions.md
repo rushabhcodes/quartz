@@ -1,3 +1,7 @@
+---
+created: 2025-05-12T15:31
+updated: 2025-05-15T11:16
+---
 # Module 1
 ## What are traditional ciphers? Discuss any one substitution and transposition cipher with example. List their merits and demerits.
 
