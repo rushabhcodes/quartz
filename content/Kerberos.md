@@ -1,122 +1,101 @@
 ---
 created: 2025-05-15T11:12
-updated: 2025-05-15T11:13
+updated: 2025-05-15T21:01
 ---
-### **Introduction to Kerberos:**
-
-**Kerberos** is a **network authentication protocol** designed to provide **strong authentication** for client/server applications using **secret-key cryptography**. It was developed at the Massachusetts Institute of Technology (MIT) and is based on symmetric key cryptography and a trusted third party.
-
-Kerberos is widely used in distributed systems to ensure **secure authentication over insecure networks** and is notably employed in **Windows Active Directory** environments.
+Kerberos is a **network authentication protocol** developed by MIT, designed to provide strong authentication for client-server applications using secret-key cryptography. It allows nodes (users and services) to prove their identity securely over a non-secure network.
 
 ---
 
-### **Key Objectives of Kerberos:**
+### **Key Concepts of Kerberos**
 
-- Mutual authentication between client and server.
+1. **Authentication** – Verifying the identity of a user or service.
     
-- Protection against eavesdropping and replay attacks.
+2. **Tickets** – Used to prove identity without sending passwords over the network.
     
-- Use of **tickets** instead of transmitting passwords.
+3. **Trusted Third Party** – A central authority called the **Key Distribution Center (KDC)** issues tickets.
+    
+4. **Symmetric Encryption** – Kerberos uses secret-key cryptography (e.g., AES, DES).
     
 
 ---
 
-### **Components of Kerberos:**
+### **Components of Kerberos**
 
-1. **Client:** User or application requesting access to a service.
+1. **Client** – The user or application that wants to access a service.
     
-2. **Authentication Server (AS):** Verifies user credentials and issues Ticket Granting Ticket (TGT).
+2. **Application Server (Service Server)** – The server hosting the desired service.
     
-3. **Ticket Granting Server (TGS):** Issues service tickets based on the TGT.
+3. **KDC (Key Distribution Center)** – Consists of:
     
-4. **Service Server (SS):** Hosts the service that the client wants to access.
-    
-5. **Key Distribution Center (KDC):** Logical combination of the AS and TGS.
-    
-
----
-
-### **Working of Kerberos (Overview):**
-
-1. **Authentication Request:**
-    
-    - The client sends a request to the Authentication Server (AS) with their ID.
+    - **Authentication Server (AS)** – Verifies the user and provides a Ticket Granting Ticket (TGT).
         
-2. **Authentication Reply:**
-    
-    - AS verifies the user and sends back a **TGT** encrypted using the client’s secret key (derived from their password).
-        
-3. **Request for Service Ticket (TGS Exchange):**
-    
-    - The client sends the TGT to the TGS, requesting access to a specific service.
-        
-4. **TGS Reply:**
-    
-    - The TGS responds with a **Service Ticket**, which the client uses to authenticate with the service server.
-        
-5. **Accessing the Service:**
-    
-    - The client presents the service ticket to the SS and is granted access.
+    - **Ticket Granting Server (TGS)** – Issues service tickets based on the TGT.
         
 
 ---
 
-### **Working of TGS (Ticket Granting Server) in Kerberos:**
+### **Kerberos Authentication Process**
 
-The **TGS** plays a crucial role by allowing clients to obtain multiple service tickets without re-entering their credentials. This is called **Single Sign-On (SSO)**.
+Here’s a step-by-step explanation of the Kerberos workflow:
 
-#### **Steps Involved:**
+#### **1. User Login and Authentication**
 
-1. **Client to TGS:**
+- The user logs in and sends a request to the **Authentication Server (AS)** with their username.
     
-    - The client sends the following to the TGS:
-        
-        - The **TGT** received from AS.
-            
-        - An **Authenticator**, which includes a timestamp and is encrypted using the session key from the TGT.
-            
-        - The **ID of the requested service** (e.g., a file server).
-            
-2. **TGS Validates the Request:**
+- The AS checks if the user exists and sends back:
     
-    - Decrypts the TGT using its own secret key.
+    - A **Ticket Granting Ticket (TGT)** encrypted with the TGS’s key.
         
-    - Extracts the session key.
-        
-    - Decrypts the Authenticator using the session key.
-        
-    - Verifies the timestamp to ensure freshness.
-        
-3. **TGS Response:**
-    
-    - If valid, TGS creates:
-        
-        - A **Service Ticket**, encrypted with the service server's secret key.
-            
-        - A new session key for the client-service communication.
-            
-    - Sends these to the client.
-        
-4. **Client to Service Server:**
-    
-    - The client sends the Service Ticket and a new Authenticator to the service.
-        
-    - If accepted, communication begins securely using the new session key.
+    - A **session key** encrypted with the user’s password-derived key.
         
 
----
+#### **2. Requesting Access to Service**
 
-### **Benefits of Using TGS in Kerberos:**
+- The user decrypts the session key using their password.
+    
+- They send the TGT and an **Authenticator** (containing a timestamp and client ID, encrypted with the session key) to the **Ticket Granting Server (TGS)**.
+    
+- The TGS verifies the TGT and Authenticator, then sends back:
+    
+    - A **Service Ticket** encrypted with the service server's secret key.
+        
+    - A **session key** for the client-server communication.
+        
 
-- Eliminates the need to re-authenticate for every service.
+#### **3. Accessing the Service**
+
+- The client sends the Service Ticket and a new Authenticator (now using the service session key) to the application server.
     
-- Minimizes exposure of credentials.
+- The server verifies both and may optionally reply with a timestamp to confirm mutual authentication.
     
-- Enhances performance through reusability of the TGT.
+- The client is now authenticated and can use the service securely.
     
 
 ---
 
-### **Conclusion:**
+### **Diagram**
+![[Drawing 2025-05-15 20.53.39.excalidraw.svg]]
 
-Kerberos provides a robust mechanism for **secure, mutual authentication** in distributed environments. The Ticket Granting Server (TGS) is a pivotal part of the Kerberos protocol, enabling clients to access various network services efficiently and securely without repeatedly entering credentials. This model supports scalability and reduces the attack surface for credential theft.
+
+---
+
+### **Advantages of Kerberos**
+
+- **No passwords transmitted** across the network.
+- **Mutual authentication** between client and server.
+- **Single Sign-On (SSO)** capability.
+- **Scalability** across large distributed systems.
+
+---
+
+### **Limitations**
+
+- Requires **synchronized clocks** between nodes.
+- If the **KDC is compromised**, the entire system is vulnerable.
+- Initial setup and key management can be **complex**.
+
+---
+
+### **Conclusion**
+
+Kerberos is a robust and widely-used authentication protocol, essential for secure communication in distributed environments. By using tickets and symmetric key encryption, it effectively reduces the risk of password theft and impersonation attacks.
