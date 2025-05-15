@@ -1,6 +1,6 @@
 ---
 created: 2025-05-12T15:31
-updated: 2025-05-15T13:50
+updated: 2025-05-15T14:02
 ---
 # Module 1
 ## What are traditional ciphers? Discuss any one substitution and transposition cipher with example. List their merits and demerits.
@@ -25,6 +25,10 @@ updated: 2025-05-15T13:50
 ## Explain Euclidean Algorithm
 
 ![[Euclidean Algorithm]]
+
+## Play fair Cipher Example
+
+![[Play fair Cipher#Example]]
 
 
 # Module 2
