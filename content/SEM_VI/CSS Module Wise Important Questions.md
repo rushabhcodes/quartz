@@ -27,6 +27,23 @@
 ## What goals are served using a message digest? Explain using MD5.
 
 ![[Message Digest]]
+
+## What characteristics are needed in secure hash functions? Explain secure hash algorithm on 512 bit or SHA 1
+
+![[Cryptographic Hash Functions#**1. Definition**]]
+![[Cryptographic Hash Functions#**2. Properties of a Secure Hash Function**]]
+![[Secure Hash Algorithms- SHA-1 and SHA-512]]
+
+## Provide a comparison between HMAC, CBC-MAC, and CMAC.
+
+![[Comparison between HMAC, CBC-MAC, and CMAC.]]
+
+## Explain Public Key Distribution in detail.
+![[Public Key Distribution]]
+
+## Explain the Needham-Schroeder authentication protocol.
+
+![[Needham-Schroeder Authentication Protocol]]
 # Module 4
 
 ## What is the need for message authentication? List various techniques used for message authentication. Explain any one of them.
