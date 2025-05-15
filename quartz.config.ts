@@ -9,11 +9,11 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Rushabh's Digital Garden",
-    pageTitleSuffix: " by Rushabh",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google", tagId: "G-QC8NQ2B1LR", // Google Analytics tag ID
     },
     locale: "en-US",
     baseUrl: "garden.rushabh.dev",
