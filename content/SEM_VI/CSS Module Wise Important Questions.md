@@ -14,6 +14,21 @@
 # Module 2
 ## Explain DES Algorithm in Detail
 
+
+# Module 4
+
+## What is the need for message authentication? List various techniques used for message authentication. Explain any one of them.
+
+![[Message Authentication]]
+
+## What is a digital certificate? How does it help to validate the authenticity of a user?Explain X.509 certificate format.
+
+![[Digital Certificate]]
+
+![[X.509 Certificate Format]]
+
+## Why are digital certificates and signatures required ? What is the role of digital signature in digital certificates? Explain any one digital signature algorithm/Discuss RSA as a digital signature algorithm
+!
 # Module 5
 
 ## What is the Need for SSL? Explain Handshake Protocol in SSL.
