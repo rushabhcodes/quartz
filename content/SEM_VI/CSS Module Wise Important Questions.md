@@ -1,6 +1,6 @@
 ---
 created: 2025-05-12T15:31
-updated: 2025-05-15T11:16
+updated: 2025-05-15T13:50
 ---
 # Module 1
 ## What are traditional ciphers? Discuss any one substitution and transposition cipher with example. List their merits and demerits.
@@ -16,56 +16,76 @@ updated: 2025-05-15T11:16
 
 ![[Security Goals, Services, and Mechanisms]]
 
+
 ## State the rules for finding Euler’s phi function
 
 ![[Euler’s phi function]]
+
+
 ## Explain Euclidean Algorithm
 
 ![[Euclidean Algorithm]]
+
+
 # Module 2
 ## Explain DES Algorithm in Detail
+
+![[DES Algorithm]]
+
 
 ## Explain Kerberos and Working of TGS in Kerberos
 
 ![[Kerberos]]
 
+
 ## Explain RSA
 
 ![[RSA]]
+
+
 ## Explain man in the middle attack on Diffie Hellman. Explain how to overcome the same.
 
 ![[Diffie-Hellman Key Exchange]]
 
 ![[Man-in-the-Middle (MITM) Attack on Diffie-Hellman Key Exchange]]
 
+
 ## Discuss in detail block cipher modes of operation
 
 ![[Block Cipher]]
+
 
 ## What is PKI? List its components.
 
 ![[PKI]]
 
+
 ## Explain Advanced Encryption Standard (AES) in detail
 
 ![[Advanced Encryption Standard]]
 
+
 ## Explain RC4 stream cipher
 
 ![[RC4 Stream Cipher]]
+
+
 # Module 3
 
 ## Explain cryptographic hash functions along with the properties of a secure hash function. or What are the properties of a hash function? Explain role of hash function in security
 
 ![[Cryptographic Hash Functions]]
 
+
 ## Difference between SHA 1 and MD 5
 
 ![[Difference between SHA-1 and MD5]]
 
+
 ## What goals are served using a message digest? Explain using MD5.
 
 ![[Message Digest]]
+
 
 ## What characteristics are needed in secure hash functions? Explain secure hash algorithm on 512 bit or SHA 1
 
@@ -73,16 +93,21 @@ updated: 2025-05-15T11:16
 ![[Cryptographic Hash Functions#**2. Properties of a Secure Hash Function**]]
 ![[Secure Hash Algorithms- SHA-1 and SHA-512]]
 
+
 ## Provide a comparison between HMAC, CBC-MAC, and CMAC.
 
 ![[Comparison between HMAC, CBC-MAC, and CMAC.]]
 
+
 ## Explain Public Key Distribution in detail.
 ![[Public Key Distribution]]
+
 
 ## Explain the Needham-Schroeder authentication protocol.
 
 ![[Needham-Schroeder Authentication Protocol]]
+
+
 # Module 4
 
 ## What is the need for message authentication? List various techniques used for message authentication. Explain any one of them.
@@ -110,6 +135,8 @@ updated: 2025-05-15T11:16
 ## Explain challenge response-based authentication tokens
 
 ![[Challenge-Response Based Authentication Tokens]]
+
+
 # Module 5
 
 ## What is the Need for SSL? Explain Handshake Protocol in SSL.
@@ -155,6 +182,8 @@ updated: 2025-05-15T11:16
 ## What is an ICMP flood attack? Explain in detail.c
 
 ![[ICMP Flood]]
+
+
 # Module 6
 ## Explain Buffer Overflow Attack
 
