@@ -44,14 +44,14 @@ Security mechanisms are the **tools and techniques** used to implement security 
 
 ---
 
-### ✅ Relationship between Security Services and Mechanisms
+### Relationship between Security Services and Mechanisms
 
 - **Security Services** are like **goals** or **functions** we want to achieve.
 
 - **Security Mechanisms** are the **means or tools** to achieve those services.
 
 
-📌 **Example**:
+**Example**:
 
 - **Service**: Data Confidentiality  
 **Mechanism**: Encryption (e.g., AES, RSA)
