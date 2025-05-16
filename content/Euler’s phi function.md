@@ -1,6 +1,6 @@
 ---
 created: 2025-05-15T11:16
-updated: 2025-05-15T11:28
+updated: 2025-05-16T09:36
 ---
 ### **Rules for Finding Euler’s Phi Function (φ(n))**
 
@@ -32,7 +32,7 @@ Euler’s phi (φ) function, also called Euler’s totient function, counts the 
 
 ---
 
-3. **If `n` is a product of two or more **distinct** prime numbers:**
+3. **If `n` is a product of two or more distinct prime numbers:**
     
     $\phi(n) = n \left(1 - \frac{1}{p_1}\right)\left(1 - \frac{1}{p_2}\right)\cdots\left(1 - \frac{1}{p_k}\right)$
     
@@ -62,7 +62,4 @@ Euler’s phi (φ) function, also called Euler’s totient function, counts the 
 2. Apply the formula:
     
     $\phi(n) = n \prod_{i=1}^{k} \left(1 - \frac{1}{p_i}\right)$
-
----
-
-Let me know if you want examples with large numbers or Python code to compute it automatically.
+    []()
