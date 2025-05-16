@@ -1,6 +1,6 @@
 ---
 created: 2025-05-15T08:19
-updated: 2025-05-15T08:23
+updated: 2025-05-16T06:43
 ---
 #### **1. Introduction**
 
@@ -84,6 +84,22 @@ Client                            Server
 
 ---
 
-### **4. Conclusion**
+### **4. Functions of SSL Protocols**
+
+1. **Handshake Protocol**
+	- Negotiates cipher suite, SSL/TLS version, and session parameters.
+	- Authenticates client and server using digital certificates.
+2. **Change Cipher Spec Protocol**
+	- Signals both parties to switch to the negotiated cipher suite for encryption.
+	- Indicates the end of key exchange and start of secure communication.
+3. **Alert Protocol**
+	 - Sends warning and fatal error messages during the session.
+	 - Notifies closure of SSL session using close_notify.
+4. **Record Protocol**
+	 - Performs fragmentation, optional compression, encryption, and MAC generation.
+	 - Ensures data confidentiality and integrity during transmission.
+
+---
+### **5. Conclusion**
 
 SSL is essential for ensuring secure, encrypted communication over the Internet. The SSL Handshake Protocol is a foundational process that establishes a trusted and encrypted connection between client and server, laying the groundwork for secure transactions and data exchange.

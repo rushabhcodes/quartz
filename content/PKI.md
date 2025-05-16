@@ -1,6 +1,6 @@
 ---
 created: 2025-05-15T11:07
-updated: 2025-05-15T11:08
+updated: 2025-05-16T06:53
 ---
 #### **Definition:**
 
@@ -38,7 +38,7 @@ PKI ensures the **confidentiality, integrity, authenticity, and non-repudiation*
     
     - Electronically binds a public key with the identity of the certificate holder.
         
-    - Typically follows the **X.509** standard.
+    - Typically follows the [[X.509 Certificate Format]] standard.
         
     - Contains details such as the subject name, issuer, validity period, and public key.
         
