@@ -1,6 +1,6 @@
 ---
 created: 2025-05-15T08:56
-updated: 2025-05-15T08:57
+updated: 2025-05-16T08:46
 ---
 ### **What is an ICMP Flood Attack?**
 
@@ -76,13 +76,13 @@ An **ICMP Flood Attack**, also known as a **Ping Flood**, is a type of **Denial-
 
 ## **Mitigation Techniques**
 
-|Method|Description|
-|---|---|
-|**Rate Limiting**|Limit ICMP request/reply packets per second on routers/firewalls.|
-|**ICMP Filtering**|Block ICMP Echo Requests at perimeter firewalls or routers.|
-|**Anti-Spoofing Rules**|Drop packets with spoofed source IPs.|
-|**Intrusion Detection System**|Detects and alerts on abnormal ICMP traffic volume.|
-|**Disable Unnecessary ICMP**|Turn off ICMP responses on hosts not requiring it (with caution).|
+| Method                         | Description                                                       |
+| ------------------------------ | ----------------------------------------------------------------- |
+| **Rate Limiting**              | Limit ICMP request/reply packets per second on routers/firewalls. |
+| **ICMP Filtering**             | Block ICMP Echo Requests at perimeter firewalls or routers.       |
+| **Anti-Spoofing Rules**        | Drop packets with spoofed source IPs.                             |
+| **Intrusion Detection System** | Detects and alerts on abnormal ICMP traffic volume.               |
+| **Disable Unnecessary ICMP**   | Turn off ICMP responses on hosts not requiring it (with caution). |
 
 ---
 
