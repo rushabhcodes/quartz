@@ -1,3 +1,7 @@
+---
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
+---
 **DES (Data Encryption Standard)** is a symmetric-key block cipher developed by IBM and adopted by the U.S. government in the 1970s. It encrypts data in **64-bit blocks** using a **56-bit key**.
 
 ## Key Features

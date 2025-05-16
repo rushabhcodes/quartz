@@ -1,3 +1,7 @@
+---
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
+---
 ## 🧮 1. **Basic Details**
 
 |Feature|**MD5**|**SHA-1**|

@@ -1,3 +1,7 @@
+---
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
+---
 The Linker is the system program that combines the code of target programs with codes of other programs and library routines.
 
 To facilitate linking, the language translator builds an object module which contains both target code and information about other program and library routines.

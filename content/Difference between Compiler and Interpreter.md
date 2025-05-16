@@ -1,3 +1,7 @@
+---
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
+---
 | **Aspect**                 | **Compiler**                                                                                         | **Interpreter**                                                          |
 | -------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | **Purpose**                | Translates the entire program at once into machine code                                              | Translates and executes code line-by-line                                |

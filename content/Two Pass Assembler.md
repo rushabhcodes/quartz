@@ -1,3 +1,7 @@
+---
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
+---
 A **Two Pass Assembler** translates an **assembly language program** into machine code using **two passes** over the source code:
 
 - **Pass 1**: Analyzes and collects data like labels, symbols, and literal addresses.

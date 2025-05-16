@@ -1,3 +1,7 @@
+---
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
+---
 A **Learning Agent** is a type of intelligent agent in artificial intelligence that is capable of learning from its experiences and improving its performance over time. It adapts to its environment by making decisions based on feedback, improving future behavior to achieve better results.
 
 ![[Learning Agent.excalidraw.svg]]

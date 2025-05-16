@@ -1,3 +1,7 @@
+---
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
+---
 ### 📘 **Definition:**
 
 A **Context-Free Grammar (CFG)** is a formal grammar used to define the **syntactic structure** of programming languages. It is called _context-free_ because the rules (productions) can be applied **regardless of the surrounding symbols (context)**.

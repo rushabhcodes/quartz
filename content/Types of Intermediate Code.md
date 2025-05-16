@@ -1,3 +1,7 @@
+---
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
+---
 Intermediate Code (IC) is an abstract representation of the source program generated after syntax and semantic analysis. It is independent of both the source and target machine, making the compilation process more flexible and portable.
 
 ---

@@ -1,3 +1,7 @@
+---
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
+---
 A loader is a program that loads executable files (programs) from secondary storage into primary memory (RAM) for execution by the CPU. Its primary function is to take an executable file produced by a compiler or an assembler and place it into memory so that it can be run. 
 
 The loader is an essential component of the operating system responsible for managing the execution of

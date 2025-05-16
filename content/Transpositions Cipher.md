@@ -1,3 +1,7 @@
+---
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
+---
 **Transposition ciphers** rearrange the positions of characters in the plaintext to create ciphertext, rather than substituting characters with others (as substitution ciphers do). Transposition ciphers can be **keyed** or **keyless**.
 
 ---

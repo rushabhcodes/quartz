@@ -14,6 +14,8 @@ tags:
   - easy
   - picocCTF2025
 link: https://play.picoctf.org/practice/challenge/459
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/459)
 A digital ghost has breached my defenses, and my sensitive data has been stolen! 😱💻 Your mission is to uncover how this phantom intruder infiltrated my system and retrieve the hidden flag.

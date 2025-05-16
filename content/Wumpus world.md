@@ -1,3 +1,7 @@
+---
+created: 2025-05-16T10:37
+updated: 2025-05-16T10:37
+---
 The Wumpus World in AI is a classic problem demonstrating various ideas such as search algorithms, planning, and decision-making. The wumpus world in AI is a straightforward environment in which an agent (a computer program or a robot) must traverse a grid world filled with obstacles, hazards, and dangerous wumpus. Wumpus is a fictional character that kills the player in the game. The agent must travel the globe for a safe route to the treasure without falling into pits or being killed by the wumpus.
 
 ## Properties of the Wumpus World
