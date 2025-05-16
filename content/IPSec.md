@@ -1,23 +1,24 @@
 ---
 created: 2025-05-15T08:33
-updated: 2025-05-15T08:35
+updated: 2025-05-16T07:58
 ---
 ## IPSec: Tunnel and Transport Modes with AH and ESP
 
-**IPSec (Internet Protocol Security)** is a protocol suite that secures IP communication by providing:
+IPSec is a set of protocols that secure internet communications by providing encryption and
+authentication at the network layer (Layer 3) of the OSI model. It is used to establish secure
+connections between network devices, such as routers, firewalls, and hosts.
+
+IPSec ensures secure data transmission over networks by providing three key security functions:
 
 - **Confidentiality** through encryption,
     
 - **Integrity** through hashing,
     
 - **Authentication** using keys or certificates,
-    
-- **Anti-replay protection** via sequence numbers.
-    
 
 ---
 
-## Modes of Operation
+## IPSec Modes of Operation
 
 ### 1. Tunnel Mode
 
@@ -30,6 +31,10 @@ updated: 2025-05-15T08:35
 
 **Example:** Secure data exchange between two company branches over the internet.
 
+
+| IP header | IPSec Header | IP header | protected data |
+| --------- | ------------ | --------- | -------------- |
+
 ### 2. Transport Mode
 
 - Encrypts **only the payload**; original IP header remains.
@@ -38,6 +43,10 @@ updated: 2025-05-15T08:35
     
 
 **Example:** Secure communication between two servers within a private network.
+
+| IP header | IPSec Header | protected data |
+| --------- | ------------ | -------------- |
+
 
 ---
 
@@ -73,21 +82,45 @@ updated: 2025-05-15T08:35
 - More widely used than AH due to support for confidentiality.
     
 
----
-
-## Security Functions Provided by IPSec
-
-- **Authentication:** Confirms sender identity.
-    
-- **Integrity:** Detects modifications.
-    
-- **Confidentiality:** Prevents unauthorized access (via ESP).
-    
-- **Anti-replay:** Prevents duplicate packet attacks.
-    
 
 ---
+## **Applications of IPSec**
 
+1. **Virtual Private Networks (VPNs)**
+    
+    - Secure remote access for users over the internet.
+        
+2. **Site-to-Site Connectivity**
+    
+    - Secure communication between two networks (e.g., branch offices).
+        
+3. **Secure Communication in IPv6**
+    
+    - IPSec is **mandatory** in IPv6 for encryption and authentication.
+        
+4. **Secure E-commerce Transactions**
+    
+5. **Secure Data Exchange Between Servers**
+    
+
+---
+
+## **Advantages of IPSec**
+
+- **Strong Security** – Provides confidentiality, integrity, and authentication.
+    
+- **Transparent to Applications** – Works at the network layer, so no need to modify applications.
+    
+- **Supports Multiple Encryption Algorithms** – Such as AES, 3DES.
+    
+- **Scalability** – Suitable for small and large networks.
+    
+- **Standards-Based** – Interoperable across devices and platforms.
+    
+- **Protects All IP Traffic** – Unlike SSL/TLS, which protects only specific applications.
+    
+
+---
 ## Conclusion
 
 IPSec secures IP communications using **Tunnel Mode** (for network-level VPNs) and **Transport Mode** (for host-to-host links). It relies on **AH** and **ESP** for authentication, integrity, and optionally confidentiality, depending on the security requirements.
