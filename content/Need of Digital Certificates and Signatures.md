@@ -1,6 +1,6 @@
 ---
 created: 2025-05-15T10:04
-updated: 2025-05-15T10:04
+updated: 2025-05-16T06:37
 ---
 ### **Why Are Digital Certificates and Digital Signatures Required?**
 
@@ -91,6 +91,7 @@ In digital communication, **trust**, **authenticity**, **integrity**, and **non-
         
     - Compares the two hashes. If they match, the signature is valid.
         
+![[Screenshot 2025-05-16 at 06-35-15 Microsoft Word - CSS Answer bank - CSS Answer bank (Repeated Qns only).pdf.png]]
 
 ---
 
@@ -100,7 +101,7 @@ In digital communication, **trust**, **authenticity**, **integrity**, and **non-
     
 - Provides **authentication**, **integrity**, and **non-repudiation**.
     
-- Widely supported in protocols like **SSL/TLS**, **PGP**, and **digital certificates (X.509)**.
+- Widely supported in protocols like **SSL/TLS**, **PGP**, and **[[X.509 Certificate Format]]**.
     
 
 ---
