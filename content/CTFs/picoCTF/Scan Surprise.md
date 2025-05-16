@@ -14,8 +14,6 @@ tags:
   - easy
   - picocCTF2024
 link: https://play.picoctf.org/practice/challenge/444
-created: 2025-05-08T18:50
-updated: 2025-05-08T18:50
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/444)
 I've gotten bored of handing out flags as text. Wouldn't it be cool if they were an image instead?

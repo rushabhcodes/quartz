@@ -1,7 +1,3 @@
----
-created: 2025-05-14T21:51
-updated: 2025-05-14T21:51
----
 A **Dynamic Linking Loader** is a crucial part of modern operating systems that **loads and links shared libraries** into an executable **at runtime**, rather than during compilation or initial load time. This approach enables **modularity**, **memory efficiency**, and **runtime flexibility**.
 
 ---

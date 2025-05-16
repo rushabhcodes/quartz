@@ -1,7 +1,3 @@
----
-created: 2025-05-10T23:41
-updated: 2025-05-10T23:42
----
 **Game Playing Algorithms** are a class of AI algorithms used to determine the best possible move for a player in a **competitive environment** (games). These algorithms simulate different game states to find a strategy that **maximizes the player's chance of winning** while **minimizing the opponent's chances**.
 
 They are used in:

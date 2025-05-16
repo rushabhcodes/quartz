@@ -1,7 +1,3 @@
----
-created: 2025-05-10T23:10
-updated: 2025-05-10T23:12
----
 ### PEAS Description (Performance measure, Environment, Actuators, Sensors)
 
 |**Component**|**Description for Automobile Driver Agent**|

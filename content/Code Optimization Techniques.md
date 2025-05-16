@@ -1,7 +1,3 @@
----
-created: 2025-05-14T21:51
-updated: 2025-05-14T21:51
----
 ## **Code Optimization Techniques**
 
 **Code optimization** is a phase in compiler design aimed at **improving the intermediate code** to make the final executable **more efficient**, without changing the program's output or logic.

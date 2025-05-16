@@ -1,7 +1,3 @@
----
-created: 2025-05-10T23:25
-updated: 2025-05-10T23:29
----
 The **task environment** is everything an agent interacts with while performing a task. To design effective intelligent agents, it's essential to understand the **nature of the environment** in which they operate.
 
 The properties of task environments are classified along **several dimensions**:

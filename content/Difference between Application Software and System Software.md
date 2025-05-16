@@ -1,7 +1,3 @@
----
-created: 2025-05-09T16:57
-updated: 2025-05-11T19:04
----
 | **Aspect**                 | **System Software**                                                   | **Application Software**                                          |
 | -------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | **Definition**             | Software that manages and controls computer hardware.                 | Software that helps users perform specific tasks or applications. |

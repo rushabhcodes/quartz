@@ -1,7 +1,3 @@
----
-created: 2025-05-12T16:06
-updated: 2025-05-16T08:31
----
 **DES (Data Encryption Standard)** is a symmetric-key block cipher developed by IBM and adopted by the U.S. government in the 1970s. It encrypts data in **64-bit blocks** using a **56-bit key**.
 
 ## Key Features
@@ -50,12 +46,3 @@ _(Here, `f()` is a round function and `K[i]` is the subkey for round i)_
 ### 4. **Final Permutation (FP or IP⁻¹)**
 
 - Inverse of the initial permutation is applied to the final output of the 16 rounds.
-
-## Diagram
-
-![[Screenshot 2025-05-16 at 08-29-43 Microsoft Word - CSS Answer bank - CSS Answer bank (Repeated Qns only).pdf.png]]
-## Advantages of AES
-1. **Strong Security**
-	AES uses key sizes of 128, 192, or 256 bits, making brute-force attacks infeasible.
-2. **Fast and EƯicient**
-	AES is designed to be fast in both hardware and software implementations

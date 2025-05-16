@@ -1,7 +1,3 @@
----
-created: 2025-05-11T15:54
-updated: 2025-05-13T20:38
----
 8# Module 1
 ## Difference between Application Software and System Software
 

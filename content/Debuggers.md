@@ -1,7 +1,3 @@
----
-created: 2025-05-14T10:37
-updated: 2025-05-14T10:38
----
 ### **Definition**
 
 A **debugger** is a software tool used to **test and debug** programs by allowing programmers to examine and control program execution.
