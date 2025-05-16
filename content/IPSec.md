@@ -1,6 +1,6 @@
 ---
 created: 2025-05-15T08:33
-updated: 2025-05-16T07:58
+updated: 2025-05-16T08:10
 ---
 ## IPSec: Tunnel and Transport Modes with AH and ESP
 
@@ -47,6 +47,7 @@ IPSec ensures secure data transmission over networks by providing three key secu
 | IP header | IPSec Header | protected data |
 | --------- | ------------ | -------------- |
 
+![[Transport Mode and Tunnel Mode.excalidraw.svg]]
 
 ---
 

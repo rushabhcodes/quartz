@@ -1,6 +1,6 @@
 ---
 created: 2025-05-15T10:14
-updated: 2025-05-15T10:14
+updated: 2025-05-16T08:20
 ---
 ### **Cryptographic Hash Functions and Their Role in Security**
 
@@ -58,13 +58,13 @@ For a hash function to be considered cryptographically secure, it must satisfy t
 
 Hash functions play a **critical role** in modern cryptographic systems:
 
-|**Application**|**Description**|
-|---|---|
-|**Data Integrity**|Used to verify that data has not been altered (e.g., checksums, file verification).|
-|**Digital Signatures**|Hashes are signed instead of the full message to ensure efficiency and integrity.|
-|**Password Storage**|Passwords are stored in hashed form to prevent exposure in case of a data breach.|
-|**Message Authentication Codes (MACs)**|Combine a hash with a secret key to verify message authenticity.|
-|**Blockchain**|Hashing is used to link blocks securely and verify transaction history.|
+| **Application**                         | **Description**                                                                     |
+| --------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Data Integrity**                      | Used to verify that data has not been altered (e.g., checksums, file verification). |
+| **Digital Signatures**                  | Hashes are signed instead of the full message to ensure efficiency and integrity.   |
+| **Password Storage**                    | Passwords are stored in hashed form to prevent exposure in case of a data breach.   |
+| **Message Authentication Codes (MACs)** | Combine a hash with a secret key to verify message authenticity.                    |
+| **Blockchain**                          | Hashing is used to link blocks securely and verify transaction history.             |
 
 ---
 
