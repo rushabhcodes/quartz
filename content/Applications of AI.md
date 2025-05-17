@@ -1,6 +1,6 @@
 ---
 created: 2025-05-17T16:11
-updated: 2025-05-17T16:12
+updated: 2025-05-17T16:20
 ---
 ### **1. AI in Robotics**
 
@@ -72,5 +72,5 @@ AI in banking ensures security, improves customer service, and supports financia
     
 - **Customer Service:** Virtual assistants answer FAQs and help customers manage accounts.
     
-- **Risk Assessment:** Evaluates risks in investments and loan disbursals by analyzing financial data and trends.  
+- **Risk Assessment:** Evaluates risks in investments and loan disbursals by analyzing financial data and trends.
     
