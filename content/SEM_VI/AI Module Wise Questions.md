@@ -1,6 +1,6 @@
 ---
 created: 2025-05-17T16:07
-updated: 2025-05-19T01:24
+updated: 2025-05-19T01:44
 ---
 # Module 5: Planning and Learning
 
@@ -12,7 +12,19 @@ updated: 2025-05-19T01:24
 
 ## Design a planning problem using STRIP for Air cargo transport. It involves loading and unloading cargo onto and of planes and flying it from place. Initial state: At SFO airport, Cargo1, Plane1 and at JFK airport, Cargo2, Plane2 is present. Goal state: At SFO airport Cargo2 and at JFK airport Cargo1 is present.
 
+![[Example Problems on Planning#Example 1]]
 
+## Consider problem of changing a flat tire. The goal is to have a good spare tire properly mounted on to the car’s axle, where the initial state has a flat tire on the axle and a good spare tire in the trunk. Give the ADL description for the problem and also discuss the solution.
+
+![[Example Problems on Planning#Example 2]]
+
+## Explain the concept of PAC learning.
+
+![[PAC Learning]]
+
+## Explain Reinforcement learning in detail.
+
+![[Reinforcement Learning]]
 # Module 6: AI Applications
 
 ## Explain different applications of AI in Robotics, Healthcare, Retail and Banking.
