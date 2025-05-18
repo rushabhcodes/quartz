@@ -14,7 +14,7 @@ tags:
   - picocCTF2022
 link: https://play.picoctf.org/practice/challenge/305
 created: 2025-05-18T22:17
-updated: 2025-05-18T22:19
+updated: 2025-05-18T22:53
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/305)
 
@@ -24,10 +24,15 @@ Download this image and find the flag.
 
 # Approach and Steps 
 
+`zsteg -a pico.flag.png`
+
+Use [Stegnography CTF checklist](https://book.hacktricks.wiki/en/crypto-and-stego/stego-tricks.html)
 # Flag
 
 > [!success] Flag
-> ``
+> `picoCTF{7h3r3_15_n0_5p00n_96ae0ac1}`
 
 # Tools Used
+
+[[zsteg]]
 
