@@ -1,10 +1,11 @@
 ---
 created: 2025-05-17T16:07
-updated: 2025-05-17T16:47
+updated: 2025-05-19T01:03
 ---
 # Module 5: Planning and Learning
 
 ## What is planning in AI? Explain Partial-order planning with suitable example.
+
 
 
 
