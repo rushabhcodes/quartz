@@ -12,9 +12,8 @@ tags:
   - easy
 link: https://play.picoctf.org/practice/challenge/505
 created: 2025-05-18T15:02
-updated: 2025-05-18T15:13
+updated: 2025-05-18T17:55
 ---
-
 # [Challenge Description](https://play.picoctf.org/practice/challenge/505)
 
 Can you find the flag in this disk image?

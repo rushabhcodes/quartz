@@ -15,9 +15,9 @@ tags:
   - picocCTF2024
 link: https://play.picoctf.org/practice/challenge/450
 created: 2025-05-16T10:37
-updated: 2025-05-18T15:12
+updated: 2025-05-18T17:56
 ---
-# [Challenge Description](https://play.picoctf.org/practice/challenge/450)
+	# [Challenge Description](https://play.picoctf.org/practice/challenge/450)
 People keep trying to trick my players with imitation flags. I want to make sure they get the real thing! I'm going to provide the SHA-256 hash and a decrypt script to help you know that my flags are legitimate.
 
 `ssh -p 52595 ctf-player@rhea.picoctf.net`  
