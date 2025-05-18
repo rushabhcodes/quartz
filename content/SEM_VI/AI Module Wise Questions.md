@@ -1,7 +1,19 @@
 ---
 created: 2025-05-17T16:07
-updated: 2025-05-19T01:44
+updated: 2025-05-19T01:56
 ---
+# Module 4: Knowledge and Reasoning
+
+## Explain forward-chaining and backward-chaining algorithm in detail with suitable example.
+
+![[Forward-chaining and Backward-chaining]]
+
+## Write a detailed note on Wumpus world environment.
+
+![[Wumpus world]]
+
+## Solve given problem using Resolution
+
 # Module 5: Planning and Learning
 
 ## What is planning in AI? Explain Partial-order planning with suitable example.
@@ -25,6 +37,10 @@ updated: 2025-05-19T01:44
 ## Explain Reinforcement learning in detail.
 
 ![[Reinforcement Learning]]
+
+## Explain hierarchical planning in detail.
+
+![[Hierarchical Planning]]
 # Module 6: AI Applications
 
 ## Explain different applications of AI in Robotics, Healthcare, Retail and Banking.

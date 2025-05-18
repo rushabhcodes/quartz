@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T01:44
-updated: 2025-05-19T01:46
+updated: 2025-05-19T01:47
 ---
 ## 1. What is Reinforcement Learning?
 
@@ -87,7 +87,7 @@ Examples:
 
 - Learns Q-values while following current policy
     
-- Q(s,a)=r+γ⋅Q(s′,a′)Q(s, a) = r + \gamma \cdot Q(s', a')
+- $Q(s, a) = r + \gamma \cdot Q(s', a')$
     
 
 ### Deep Q-Networks (DQN)
@@ -106,7 +106,7 @@ Examples:
 - **Exploitation**: Use known actions that give high reward
     
 
-👉 A balance is needed (e.g., using ε-greedy policy).
+A balance is needed (e.g., using ε-greedy policy).
 
 ---
 
