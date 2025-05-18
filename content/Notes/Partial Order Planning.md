@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T01:04
-updated: 2025-05-19T01:16
+updated: 2025-05-19T01:18
 ---
 **Partial-Order Planning (POP)** is a type of planning where the order of actions is only partially specified. This means that the planner allows some actions to remain unordered if there is no reason to enforce a specific order, offering flexibility and efficiency in planning.
 
@@ -36,7 +36,7 @@ updated: 2025-05-19T01:16
     
 - `Action(LeftSock, Effect: LeftSockOn)`
     
-- `Action(LeftShoe Precondition: LeftSockOn, Effect: LeftShoeOn)`
+- `Action(LeftShoe)` → Precondition: `LeftSockOnEffect: LeftShoeOn)`
 
 
 #### Plan Setup:
