@@ -1,7 +1,11 @@
 ---
 created: 2025-05-17T16:07
-updated: 2025-05-19T02:13
+updated: 2025-05-19T02:17
 ---
+# Module 2: Intelligent Agent
+
+
+
 # Module 3: Problem Solving
 
 ## Explain hill climbing algorithm and problems that occur in hill climbing algorithm along with solutions.
