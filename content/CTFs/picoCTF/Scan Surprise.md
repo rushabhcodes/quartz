@@ -1,7 +1,7 @@
 ---
 title: Scan Surprise
 ctf: "[[picoCTF]]"
-category: "[[Forenscis]]"
+category: "[[Forensics]]"
 difficulty: "[[Easy]]"
 points: 0
 status: Solved
@@ -10,12 +10,12 @@ date: 2025-04-30
 tags:
   - ctf
   - picoctf
-  - forenscis
+  - forensics
   - easy
   - picocCTF2024
 link: https://play.picoctf.org/practice/challenge/444
 created: 2025-05-16T10:37
-updated: 2025-05-16T10:37
+updated: 2025-05-18T15:12
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/444)
 I've gotten bored of handing out flags as text. Wouldn't it be cool if they were an image instead?

@@ -9,9 +9,10 @@ flag_format: picoCTF{...}
 tags:
   - ctf
   - forensics
+  - easy
 link: https://play.picoctf.org/practice/challenge/505
 created: 2025-05-18T15:02
-updated: 2025-05-18T15:08
+updated: 2025-05-18T15:13
 ---
 
 # [Challenge Description](https://play.picoctf.org/practice/challenge/505)

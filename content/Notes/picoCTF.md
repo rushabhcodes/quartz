@@ -1,6 +1,6 @@
 ---
 created: 2025-05-16T10:37
-updated: 2025-05-18T15:10
+updated: 2025-05-18T15:13
 ---
 [picoCTF](https://picoctf.org/) gamifies learning hacking with capture-the-flag puzzles created by trusted computer security and privacy experts at [Carnegie Mellon University](https://cmu.edu/) (_picoCTF - CMU Cybersecurity Competition_, n.d.).
 
@@ -11,14 +11,11 @@ The challenges are categorised into 6 categories: [[Web Exploitation]], [[Crypto
 	- [[SSTI1]]
 - ### [[Cryptography]]
 - ### [[Reverse Engineering]]
-- ### [[Forenscis]]
-```dataview
-list from #easy #forenscis 
-	
-```
-	- [[Verify]]
-	- [[Scan Surprise]]
-	- [[Ph4nt0m 1ntrud3r]]
+- ### [[Forensics]]
+	```dataview
+	list from #easy and #forensics 
+		
+	```
 - ### [[General Skills]]
 - ### [[Binary Exploitation]]
 	- [[format string 0]]
