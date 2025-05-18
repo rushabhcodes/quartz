@@ -1,7 +1,24 @@
 ---
 created: 2025-05-17T16:07
-updated: 2025-05-19T01:56
+updated: 2025-05-19T02:13
 ---
+# Module 3: Problem Solving
+
+## Explain hill climbing algorithm and problems that occur in hill climbing algorithm along with solutions.
+
+![[Hill Climbing Algorithm]]
+
+## Differentiate between Informed search and Uninformed search algorithms.
+
+![[Difference between Informed search and Uninformed search algorithms.]]
+
+## Explain the Depth Limited search and Depth first iterative deepening search.
+
+![[Depth Limited search and Depth first iterative deepening search.]]
+
+## Explain Simulated annealing with suitable example.
+
+![[Simulated Annealing]]
 # Module 4: Knowledge and Reasoning
 
 ## Explain forward-chaining and backward-chaining algorithm in detail with suitable example.
