@@ -8,11 +8,13 @@ status: Solved
 flag_format: picoCTF{...}
 tags:
   - ctf
-  - reverse engineering
+  - reverse
+  - engineering
   - medium
+  - x86_64
 link: https://play.picoctf.org/practice/challenge/398
 created: 2025-05-18T22:08
-updated: 2025-05-18T22:16
+updated: 2025-05-18T22:17
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/398)
 
