@@ -11,9 +11,10 @@ tags:
   - reverse
   - engineering
   - medium
+  - x86_64
 link: https://play.picoctf.org/practice/challenge/397
 created: 2025-05-18T21:28
-updated: 2025-05-18T22:01
+updated: 2025-05-18T22:06
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/397)
 
@@ -44,10 +45,16 @@ End of assembler dump.
 Added breakpoint at `0x000000000040111c` by running `b *0x000000000040111c` and then `run` the program
 
 Examined the memory using ` x/4xb $rpb-0x4` to get the flag.
+```js
+0x7fffffffd9cc:	0x6b	0xc9	0x62	0x22
+```
+
+The flag is just the reverse bytes of `$0x2262c96b` which we found in disassembly because the program's [[Endianness]] is little endian.
 # Flag
 
 > [!success] Flag
-> ``
+> `picoCTF{0x6bc96222}`
 
 # Tools Used
 
+[[gdb]]
