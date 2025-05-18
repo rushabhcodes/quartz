@@ -1,6 +1,6 @@
 ---
 created: 2025-05-15T11:16
-updated: 2025-05-16T09:36
+updated: 2025-05-18T17:23
 ---
 ### **Rules for Finding Euler’s Phi Function (φ(n))**
 
@@ -62,4 +62,3 @@ Euler’s phi (φ) function, also called Euler’s totient function, counts the 
 2. Apply the formula:
     
     $\phi(n) = n \prod_{i=1}^{k} \left(1 - \frac{1}{p_i}\right)$
-    []()
