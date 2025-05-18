@@ -1,9 +1,8 @@
 ---
 title: Home
 created: 2025-05-16T10:37
-updated: 2025-05-16T10:37
+updated: 2025-05-18T15:19
 ---
-# 🌱 **Welcome to My Digital Garden**
 
 This is a living collection of my thoughts, learnings, half-baked ideas, and projects I'm exploring. Unlike a blog, this space isn't polished or chronological—it's more like a knowledge playground where I plant seeds of curiosity and let them grow over time.
 
