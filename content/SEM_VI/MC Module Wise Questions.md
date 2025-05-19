@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T14:26
+updated: 2025-05-19T15:32
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -29,3 +29,5 @@ updated: 2025-05-19T14:26
 ## Explain various types of antennas along with their radiation patterns.
 
 ![[Types of Antennas]]
+
+## 
