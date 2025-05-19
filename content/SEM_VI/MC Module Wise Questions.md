@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T20:08
+updated: 2025-05-19T20:29
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -82,6 +82,19 @@ updated: 2025-05-19T20:08
 ## Explain selective transmission process at TCP.
 
 ![[Selective transmission process at TCP]]
+
+
+# Module 4: Wireless Local Area Networks
+
+## Explain the protocol architecture of IEEE 802.11 with diagram.
+
+![[IEEE 802.11 Protocol Architecture]]
+
+## Explain Wireless LAN threats
+
+![[Wireless LAN threats]]
+
+## 
 # Module 5: Mobility Management
 
 ## Explain Cellular IP and its use in detail.
