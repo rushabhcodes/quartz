@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T15:43
-updated: 2025-05-19T16:32
+updated: 2025-05-19T16:33
 ---
 # Cellular IP (CIP) and Its Use in Detail
 
@@ -25,6 +25,7 @@ Cellular IP (CIP) is a micro-mobility protocol designed to complement Mobile IP 
    - Devices that move within the Cellular IP network while maintaining connectivity.  
 
 ---
+![[Cellular IP Architecture.excalidraw.svg]]
 ---
 ## How Cellular IP Works
 
@@ -76,16 +77,6 @@ Cellular IP (CIP) is a micro-mobility protocol designed to complement Mobile IP 
    - Enhances mobility management for mobile devices in cellular systems, reducing latency during handovers.  
 3. **Internet of Things (IoT)**:  
    - Supports efficient mobility for IoT devices in industrial or smart city environments.  
-
----
-
-## Comparison with Other Protocols
-- **Mobile IP**:  
-  - Designed for macro-mobility but inefficient for frequent, localized movements.  
-  - Cellular IP complements it by handling micro-mobility.  
-- **HAWAII and HMIPv6**:  
-  - Alternative micro-mobility protocols with different architectures (e.g., HAWAII uses co-located COAs, while HMIPv6 uses a Mobility Anchor Point).  
-  - Cellular IP stands out for its simplicity and efficiency in dense, high-mobility environments.  
 
 ---
 

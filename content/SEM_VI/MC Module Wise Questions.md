@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T15:43
+updated: 2025-05-19T16:41
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -48,3 +48,11 @@ updated: 2025-05-19T15:43
 ## Explain Cellular IP and its use in detail.
 
 ![[Cellular IP]]
+
+## Write a short note on: IPv6
+
+![[IPv6]]
+
+## How is IP mobility achieved in wireless network.
+
+![[IP Mobility]]
