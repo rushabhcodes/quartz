@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T15:32
+updated: 2025-05-19T15:38
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -30,4 +30,14 @@ updated: 2025-05-19T15:32
 
 ![[Types of Antennas]]
 
-## 
+## Explain the concept of frequency reuse with clustering. 
+
+![[Frequency reuse with Clustering]]
+
+## What are various advantages and disadvantages of small cells in cellular systems.
+
+![[Advantages and disadvantages of small cells in cellular systems.]]
+
+## What is co channel interference.
+
+![[Co Channel Interference]]
