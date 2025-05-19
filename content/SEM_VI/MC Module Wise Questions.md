@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T19:17
+updated: 2025-05-19T19:26
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -56,6 +56,10 @@ updated: 2025-05-19T19:17
 ## Explain Mobile TCP with their merits and demerits.
 
 ![[Mobile TCP with their merits and demerits]]
+
+## What do you mean by hidden and exposed station problem. How can they be avoided.
+
+![[Hidden and Exposed Station Problems in Wireless Networks]]
 # Module 5: Mobility Management
 
 ## Explain Cellular IP and its use in detail.
