@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T17:00
+updated: 2025-05-19T19:17
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -49,6 +49,13 @@ updated: 2025-05-19T17:00
 
 ![[Packet delivery mechanism to and from mobile node]]
 
+## What is Snooping TCP? What are its advantages and disadvantages.
+
+![[Snooping TCP]]
+
+## Explain Mobile TCP with their merits and demerits.
+
+![[Mobile TCP with their merits and demerits]]
 # Module 5: Mobility Management
 
 ## Explain Cellular IP and its use in detail.
