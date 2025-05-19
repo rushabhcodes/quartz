@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T20:01
+updated: 2025-05-19T20:08
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -109,4 +109,16 @@ updated: 2025-05-19T20:01
 
 ## Explain self-organizing networks(SON) for heterogeneous networks.
 
-![[self-organizing networks(SON) for heterogeneous networks.]]
+![[Self-organizing networks(SON) for Heterogeneous Networks]]
+
+## Compare LTE and LTE advanced. 
+
+![[Comparison between LTE and LTE advanced]]
+
+## Explain in short voice over LTE (VoLTE).
+
+![[Voice Over LTE (VoLTE)]]
+
+##  Explain different components used in LTE architecture with diagram.
+
+![[LTE Architecture]]
