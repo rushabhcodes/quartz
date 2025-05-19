@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T15:38
+updated: 2025-05-19T15:43
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -41,3 +41,10 @@ updated: 2025-05-19T15:38
 ## What is co channel interference.
 
 ![[Co Channel Interference]]
+
+
+# Module 5: Mobility Management
+
+## Explain Cellular IP and its use in detail.
+
+![[Cellular IP]]
