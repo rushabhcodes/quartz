@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T23:21
+updated: 2025-05-19T23:29
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -49,6 +49,9 @@ updated: 2025-05-19T23:21
 
 ![[GSM architecture]]
 
+## Explain handover mechanisms in GSM in detail.
+
+![[Handover mechanisms in GSM]]
 # Module 3: Mobile Networking
 
 ## Explain packet delivery mechanism to and from mobile node with the help of Mobile IP network diagram.
