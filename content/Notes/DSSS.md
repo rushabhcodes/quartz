@@ -1,12 +1,18 @@
 ---
-created: 2025-05-19T13:40
-updated: 2025-05-19T13:42
+created: 2025-05-19T13:53
+updated: 2025-05-19T13:57
 ---
-## Frequency Hopping Spread Spectrum (FHSS):
+## DSSS (Direct Sequence Spread Spectrum)
 
-- FHSS uses TDM and FDM, splitting available bandwidth into smaller channels.
-- Transmitter and receiver hop between channels after a set time.
-- The hopping sequence defines the pattern of frequency changes.
-- Dwell time is the duration spent on a frequency before hopping.
-- Two types: **Slow hopping** (few hops per bit) and **Fast hopping** (multiple hops per bit).
-## FHSS Transmitter:
+- DSSS spreads data by multiplying it with a high-rate pseudo-noise (PN) code (chip sequence).
+- Each bit becomes multiple chips, increasing bandwidth and interference resistance.
+- PN code must match at both ends for successful de-spreading.
+- OƯers good security, anti-jamming, and signal reliability.
+
+## DSSS Transmitter:
+
+![[DSSS Transmitter.excalidraw.svg]]
+
+1. Modulation: User data is modulated using BPSK.
+2. Spreading: Modulated signal is multiplied by a high-rate PN sequence to widen the bandwidth.
+3. Transmission: The spread signal is sent over a carrier; each bit becomes multiple chips, improving resistance to interference.
