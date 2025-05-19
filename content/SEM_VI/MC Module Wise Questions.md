@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T23:52
+updated: 2025-05-19T23:54
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -63,6 +63,9 @@ updated: 2025-05-19T23:52
 ![[GPRS architecture]]
 
 
+## Explain Mobile Terminated Call and Mobile Originated Call in detail.
+
+![[Mobile Terminated Call and Mobile Originated Call]]
 ## What are the roles of EIR and HLR entities in a GSM network. #
 
 ![[Roles of EIR and HLR in GSM Network]]
