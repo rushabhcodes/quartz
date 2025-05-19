@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T19:26
+updated: 2025-05-19T19:47
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -60,6 +60,26 @@ updated: 2025-05-19T19:26
 ## What do you mean by hidden and exposed station problem. How can they be avoided.
 
 ![[Hidden and Exposed Station Problems in Wireless Networks]]
+
+## Write a short note on: Agent Advertisement and Agent Discovery.
+
+![[Agent Advertisement and Agent Discovery in Mobile IP]]
+
+## Explain Tunnelling and Encapsulation in brief. What are the various types of Encapsulation techniques.
+
+![[Tunnelling and Encapsulation]]
+
+
+## Explain agent registration process in mobile communication.
+
+![[Agent Registration process in mobile communication]]
+
+## What is reverse tunnelling?
+
+![[reverse tunnelling]]
+
+
+## 
 # Module 5: Mobility Management
 
 ## Explain Cellular IP and its use in detail.
