@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T19:47
+updated: 2025-05-19T20:01
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -79,13 +79,19 @@ updated: 2025-05-19T19:47
 ![[reverse tunnelling]]
 
 
-## 
+## Explain selective transmission process at TCP.
+
+![[Selective transmission process at TCP]]
 # Module 5: Mobility Management
 
 ## Explain Cellular IP and its use in detail.
 
 ![[Cellular IP]]
 
+
+## What is micro mobility, its need and its approaches?
+
+![[Micro mobility]]
 ## Write a short note on: IPv6
 
 ![[IPv6]]
@@ -93,3 +99,14 @@ updated: 2025-05-19T19:47
 ## How is IP mobility achieved in wireless network.
 
 ![[IP Mobility]]
+
+
+# Module 6: Long Term Evolution of 3GPP
+
+## What do you mean by Self Organizing Network. Explain the architecture of SON
+
+![[Self Organizing Network]]
+
+## Explain self-organizing networks(SON) for heterogeneous networks.
+
+![[self-organizing networks(SON) for heterogeneous networks.]]
