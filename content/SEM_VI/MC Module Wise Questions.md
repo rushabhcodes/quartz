@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T23:06
+updated: 2025-05-19T23:21
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -42,6 +42,12 @@ updated: 2025-05-19T23:06
 
 ![[Co Channel Interference]]
 
+
+# Module 2: GSM Mobile Services
+
+## Explain GSM architecture in detail.
+
+![[GSM architecture]]
 
 # Module 3: Mobile Networking
 
@@ -117,6 +123,19 @@ updated: 2025-05-19T23:06
 ## What is the responsibility of MAC management in IEEE 802.11?
 
 ![[MAC management in IEEE 802.11]]
+
+## Explain the terms PICONET and Scatternet in terms of Bluetooth. 
+
+![[PICONET in Bluetooth]]
+
+![[Scatternet in Bluetooth]]
+
+
+## How can we secure wireless networks. 
+
+![[Ways to secure wireless networks]]
+
+
 # Module 5: Mobility Management
 
 ## Explain Cellular IP and its use in detail.
