@@ -1,6 +1,6 @@
 ---
 created: 2025-05-20T00:03
-updated: 2025-05-20T00:10
+updated: 2025-05-20T00:15
 ---
 ![[Pasted image 20250520000323.png]]
 ### **UMTS Architecture (Universal Mobile Telecommunications System)**
@@ -87,3 +87,15 @@ UMTS architecture consists of **three main domains**:
 | Iur           | RNC ↔ RNC              | Supports inter-RNC handover                     |
 | Iu-CS         | RNC ↔ MSC (CS Domain)  | Circuit-switched services                       |
 | Iu-PS         | RNC ↔ SGSN (PS Domain) | Packet-switched services                        |
+
+---
+### **Key Features of UMTS:**
+
+- Supports **up to 2 Mbps** data rate.
+    
+- Uses **W-CDMA** for radio access.
+    
+- Offers **global roaming** and multimedia services.
+    
+- Separates **circuit and packet switching**, enabling better data/voice integration.
+    
