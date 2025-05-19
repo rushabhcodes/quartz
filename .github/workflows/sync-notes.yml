@@ -45,7 +45,7 @@ jobs:
           ls content | cat
 
       - name: Install Bun just to run literally two commands
-        uses: oven-sh/setup-bun@v2.0.1
+        uses: oven-sh/setup-bun@v2.0.2
         with:
           bun-version: latest
 
