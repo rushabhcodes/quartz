@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T23:37
-updated: 2025-05-19T23:40
+updated: 2025-05-19T23:41
 ---
 ### Overview
 
@@ -77,19 +77,4 @@ The key algorithms are:
         - **A5/3:** A newer, stronger encryption algorithm based on Kasumi block cipher.
             
 - Encryption ensures that anyone eavesdropping cannot easily understand the transmitted data.
-    
-
----
-
-### Key Points
-
-- **Ki** is never transmitted over the air; it remains secret inside the SIM and the network.
-    
-- RAND is a random number ensuring freshness for each authentication.
-    
-- A3 and A8 are often implemented together (e.g., COMP128).
-    
-- A5 provides the actual encryption on the radio link.
-    
-- These algorithms protect GSM communications from impersonation and eavesdropping, although some (especially older versions like COMP128 and A5/2) have known vulnerabilities.
-    
+![[Pasted image 20250519234059.png]]
