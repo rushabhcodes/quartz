@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T22:53
+updated: 2025-05-19T23:06
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -97,6 +97,26 @@ updated: 2025-05-19T22:53
 ## Explain Bluetooth Protocol Stack in detail
 
 ![[Bluetooth Protocol Stack]]
+
+## Compare Infrastructure based network with Ad-hoc network.
+
+![[Comparison between Infrastructure based network and Ad-hoc network]]
+
+## Discuss in detail about Wi-Fi security protocol.
+
+![[Wi-Fi security protocol]]
+
+## Write a short note on: Bluetooth.
+
+![[Bluetooth]]
+
+## Write a short note on: HIPERLAN 
+
+![[HIPERLAN]]
+
+## What is the responsibility of MAC management in IEEE 802.11?
+
+![[MAC management in IEEE 802.11]]
 # Module 5: Mobility Management
 
 ## Explain Cellular IP and its use in detail.
