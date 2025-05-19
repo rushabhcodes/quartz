@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T20:29
+updated: 2025-05-19T22:53
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -94,7 +94,9 @@ updated: 2025-05-19T20:29
 
 ![[Wireless LAN threats]]
 
-## 
+## Explain Bluetooth Protocol Stack in detail
+
+![[Bluetooth Protocol Stack]]
 # Module 5: Mobility Management
 
 ## Explain Cellular IP and its use in detail.
