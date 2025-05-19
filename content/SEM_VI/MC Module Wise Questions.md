@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T23:29
+updated: 2025-05-19T23:37
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -52,6 +52,10 @@ updated: 2025-05-19T23:29
 ## Explain handover mechanisms in GSM in detail.
 
 ![[Handover mechanisms in GSM]]
+
+## Explain Security algorithms used in GSM for authentication and privacy (A3, A5, A8).
+
+![[Security algorithms used in GSM for authentication and privacy (A3, A5, A8)]]
 # Module 3: Mobile Networking
 
 ## Explain packet delivery mechanism to and from mobile node with the help of Mobile IP network diagram.
