@@ -1,50 +1,53 @@
 ---
 created: 2025-05-19T23:54
-updated: 2025-05-19T23:55
+updated: 2025-05-19T23:59
 ---
-Here’s a clear, well-organized explanation of **Mobile Terminated Call (MTC)** and **Mobile Originated Call (MOC)** with their steps:
+## **Mobile Terminated Call (MTC)**
 
----
+An **MTC** refers to a call **received by the mobile user**. When a caller dials a mobile number, the **GMSC** (Gateway MSC) queries the **HLR** to locate the mobile subscriber. After locating the serving **MSC** and **BSS**, the network pages the **MS**, performs authentication, and sets up the call.
 
-## Mobile Terminated Call (MTC)
+![[Pasted image 20250519235911.png]]
+**Steps:**  
+1–2): Calling user dials MS number → Call reaches GMSC via PSTN.
 
-An **MTC** is a call **received by the mobile user**. When someone dials a mobile number, the network locates the mobile subscriber and sets up the call by paging and authenticating the mobile device.
+3): GMSC queries HLR for MS location.  
 
-### Steps for MTC:
+4–5): HLR contacts VLR to get routing info.  
 
-1–2. Calling user dials the mobile number → Call reaches **GMSC** via PSTN. 
+6): HLR sends routing info to GMSC.  
 
-3. **GMSC** queries the **HLR** for the mobile subscriber’s location.  
-4–5. **HLR** contacts the **VLR** to get routing information.  
-4. **HLR** sends routing info back to **GMSC**.  
-5. **GMSC** forwards the call to the serving **MSC**.  
-8–9. **MSC** checks the mobile subscriber’s status in the **VLR**.  
-6. **MSC** pages the **BSSs** in the subscriber’s area.  
-7. **BSS** pages the **MS** (mobile station).  
-8. **MS** responds to the **BSS**.  
-13–14. Authentication and call setup occur via **MSC** and **VLR**.  
-15–17. Traffic channel is allocated, and the call is established.
+7): GMSC forwards call to the serving MSC.  
 
----
+8–9): MSC checks MS status in VLR.  
 
-## Mobile Originated Call (MOC)
+10): MSC pages BSSs in the area.  
 
-An **MOC** is a call **initiated by the mobile user**. The mobile device requests the network to set up a call, which is then routed to the destination via the network.
+11): BSS pages the MS.  
 
-### Steps for MOC:
+12): MS responds to BSS.  
 
-1. **MS** sends a call request to the **BSS**.
-    
-2. **BSS** forwards the request to the **MSC**.  
-    3–4. **MSC** authenticates the **MS** with the **VLR**.
-    
-3. Call setup proceeds from the **MSC** to the **GMSC**.  
-    6–7. **GMSC** routes the call to the **PSTN** or other networks.  
-    8–9. **MSC** allocates a traffic channel for the call.
-    
-4. **BSS** connects the call to the **MS**.
-    
+13–14): Authentication and setup via MSC & VLR.  
+
+15–17): Traffic channel allocated; call established.
 
 ---
 
-If you want, I can help diagram this or add more technical details!
+## **Mobile Originated Call (MOC)**
+
+An **MOC** is a call **initiated by the mobile user**. The **MS** sends a request to the **BSS**, which forwards it to the **MSC**. The **MSC** then authenticates the user with the **VLR** and routes the call through the **GMSC** to reach the **PSTN** or other network.
+
+![[Pasted image 20250519235931.png]]
+**Steps:**  
+1): MS sends a request to BSS to make a call.  
+
+2): BSS forwards the request to MSC.  
+
+3–4): MSC authenticates MS with VLR.  
+
+5): Call setup proceeds from MSC to GMSC.  
+
+6–7): GMSC routes the call to PSTN (or other networks).  
+
+8–9): MSC allocates a channel for the call.  
+
+10): BSS connects the call to MS.

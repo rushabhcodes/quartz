@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T23:54
+updated: 2025-05-20T00:03
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -66,6 +66,15 @@ updated: 2025-05-19T23:54
 ## Explain Mobile Terminated Call and Mobile Originated Call in detail.
 
 ![[Mobile Terminated Call and Mobile Originated Call]]
+
+## What is the use of different interfaces used in GSM with diagram.
+
+![[Interfaces used in GSM]]
+
+## Explain UMTS architecture.
+
+![[UMTS architecture]]
+
 ## What are the roles of EIR and HLR entities in a GSM network. #
 
 ![[Roles of EIR and HLR in GSM Network]]
