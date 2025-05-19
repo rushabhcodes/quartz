@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:36
-updated: 2025-05-19T16:41
+updated: 2025-05-19T17:00
 ---
 # Module 1: Introduction to Mobile Computing
 
@@ -42,6 +42,12 @@ updated: 2025-05-19T16:41
 
 ![[Co Channel Interference]]
 
+
+# Module 3: Mobile Networking
+
+## Explain packet delivery mechanism to and from mobile node with the help of Mobile IP network diagram.
+
+![[Packet delivery mechanism to and from mobile node]]
 
 # Module 5: Mobility Management
 
