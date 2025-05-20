@@ -1,6 +1,6 @@
 ---
 created: 2025-05-20T21:56
-updated: 2025-05-20T22:19
+updated: 2025-05-20T22:29
 ---
 In Artificial Intelligence, **agent types** are classified based on how they perceive their environment and make decisions. The five main types of agents are:
 
@@ -86,6 +86,7 @@ In Artificial Intelligence, **agent types** are classified based on how they per
 #### **Block Diagram**:
 
 ![[Utility based Agent.excalidraw.svg]]
+
 ---
 
 ### 5. 📚 **Learning Agent**
@@ -99,27 +100,7 @@ In Artificial Intelligence, **agent types** are classified based on how they per
 
 #### **Block Diagram**:
 
-```
-                    +-----------------+
-                    | Performance     |
-Percepts  --------> | Element         | --------> Actions
-                    +-----------------+
-                            |
-                            v
-                    +-----------------+
-                    | Critic          | (Gives feedback based on performance)
-                    +-----------------+
-                            |
-                            v
-                    +-----------------+
-                    | Learning Element| (Improves Performance)
-                    +-----------------+
-                            |
-                            v
-                    +-----------------+
-                    | Problem Generator| (Suggests new experiences)
-                    +-----------------+
-```
+![[Learning Agent.excalidraw.svg]]
 
 ---
 
@@ -132,7 +113,3 @@ Percepts  --------> | Element         | --------> Actions
 |Goal-Based|✅|✅|❌|❌|
 |Utility-Based|✅|✅|✅|❌|
 |Learning Agent|✅|✅|✅|✅|
-
----
-
-Let me know if you want hand-drawn or digital diagrams for notes or presentations!
