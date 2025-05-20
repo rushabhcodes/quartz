@@ -1,9 +1,7 @@
 ---
 created: 2025-05-19T15:35
-updated: 2025-05-19T15:37
+updated: 2025-05-20T10:24
 ---
-### **Advantages and Disadvantages of Small Cells in Cellular Systems**  
-
 Small cells (e.g., femtocells, picocells, microcells) are low-power, short-range wireless access points that enhance network capacity and coverage in high-demand areas. They play a crucial role in 4G LTE and 5G networks. Below are their key **advantages** and **disadvantages**:
 
 ---
@@ -35,9 +33,9 @@ Small cells (e.g., femtocells, picocells, microcells) are low-power, short-range
 
 ---
 
-## Disadvantages of Small Cells**  
+## **Disadvantages of Small Cells**
 
-### **1. Higher Deployment Density Required**  
+### **1. Higher Deployment Density Required**
    - **More Units Needed**: Requires many small cells to cover the same area as a macrocell.  
    - **Complex Planning**: Site acquisition and backhaul connectivity can be challenging.  
 

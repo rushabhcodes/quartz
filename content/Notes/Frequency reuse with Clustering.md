@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T15:32
-updated: 2025-05-19T15:34
+updated: 2025-05-20T10:21
 ---
 ### **Frequency Reuse with Clustering in Cellular Networks**
 
@@ -35,9 +35,9 @@ A **cluster** is a group of cells that together use the complete set of availabl
 ---
 
 ### **4. Hexagonal Cell Geometry & Reuse Patterns**
-Cells are typically modeled as hexagons for uniform coverage. The cluster size \( K \) follows the equation:  
+Cells are typically modeled as hexagons for uniform coverage. The cluster size $K$ follows the equation:  
 $K = i^2 + ij + j^2$
-where \( i \) and \( j \) are non-negative integers.  
+where $i$ and  $j$ are non-negative integers.  
 
 | **Cluster Size (K)** | **Reuse Pattern** | **Interference Trade-off** |
 |----------------------|-------------------|----------------------------|
@@ -49,7 +49,7 @@ where \( i \) and \( j \) are non-negative integers.
 
 ### **5. How Clustering Reduces Interference**
 - **Co-Channel Interference (CCI)**: Occurs when two cells using the same frequency interfere.  
-- **Increasing K** → Increases reuse distance (\( D \)) → Reduces CCI but decreases capacity.  
+- **Increasing K** → Increases reuse distance ($D$) → Reduces CCI but decreases capacity.  
 - **Decreasing K** → Improves capacity but increases interference.  
 
 #### **Sectorization (Improving Reuse Efficiency)**
