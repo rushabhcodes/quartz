@@ -15,6 +15,8 @@ tags:
   - easy
   - picocCTF2024
 link: https://play.picoctf.org/practice/challenge/433
+created: 2025-05-20T12:04
+updated: 2025-05-20T12:04
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/433)
 Can you use your knowledge of format strings to make the customers happy?

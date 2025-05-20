@@ -1,3 +1,7 @@
+---
+created: 2025-05-20T12:04
+updated: 2025-05-20T12:04
+---
 # Difference between Application Software and System Software
 ![[Difference between Application Software and System Software]]
 

@@ -14,6 +14,8 @@ tags:
   - forenscis
   - picocCTF2024
 link: https://play.picoctf.org/practice/challenge/450
+created: 2025-05-20T12:04
+updated: 2025-05-20T12:04
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/450)
 People keep trying to trick my players with imitation flags. I want to make sure they get the real thing! I'm going to provide the SHA-256 hash and a decrypt script to help you know that my flags are legitimate.

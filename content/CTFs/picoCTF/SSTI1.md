@@ -15,6 +15,8 @@ tags:
   - easy
   - picocCTF2025
 link: https://play.picoctf.org/practice/challenge/492
+created: 2025-05-20T12:04
+updated: 2025-05-20T12:04
 ---
 # [Challenge Description](https://play.picoctf.org/practice/challenge/492)
 I made a cool website where you can announce whatever you want! 

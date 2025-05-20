@@ -1,5 +1,7 @@
 ---
 title: Home
+created: 2025-05-20T12:04
+updated: 2025-05-20T12:04
 ---
 # 🌱 **Welcome to My Digital Garden**
 
