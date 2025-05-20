@@ -1,6 +1,6 @@
 ---
 created: 2025-05-20T21:56
-updated: 2025-05-20T21:58
+updated: 2025-05-20T22:19
 ---
 In Artificial Intelligence, **agent types** are classified based on how they perceive their environment and make decisions. The five main types of agents are:
 
@@ -36,7 +36,7 @@ In Artificial Intelligence, **agent types** are classified based on how they per
 
 #### **Block Diagram**:
 
-![[Types of Agents in AI 2025-05-20 21.58.16.excalidraw]]
+![[Simple Reflex Agent.excalidraw.svg]]
 
 ---
 
@@ -51,12 +51,7 @@ In Artificial Intelligence, **agent types** are classified based on how they per
 
 #### **Block Diagram**:
 
-```
-+------------+     +-------------+     +---------------------+     +--------+
-|   Percept  | --> |  State      | --> | Condition-Action    | --> | Action |
-|            |     | Update      |     | Rules Based on State|     |        |
-+------------+     +-------------+     +---------------------+     +--------+
-```
+![[Model Based Reflex Agent.excalidraw.svg]]
 
 ---
 
@@ -73,12 +68,7 @@ In Artificial Intelligence, **agent types** are classified based on how they per
 
 #### **Block Diagram**:
 
-```
-+------------+     +-------------+     +--------+     +--------+     +--------+
-|   Percept  | --> | State       | --> | Goal   | --> | Search | --> | Action |
-|            |     | Update      |     | Info   |     |/Planning|    |        |
-+------------+     +-------------+     +--------+     +--------+     +--------+
-```
+![[Goal Based Agent.excalidraw.svg]]
 
 ---
 
@@ -95,13 +85,7 @@ In Artificial Intelligence, **agent types** are classified based on how they per
 
 #### **Block Diagram**:
 
-```
-+------------+     +-------------+     +--------+     +-------------+     +--------+
-|   Percept  | --> | State       | --> | Goal   | --> | Utility      | --> | Action |
-|            |     | Update      |     | Info   |     | Evaluation   |     |        |
-+------------+     +-------------+     +--------+     +-------------+     +--------+
-```
-
+![[Utility based Agent.excalidraw.svg]]
 ---
 
 ### 5. 📚 **Learning Agent**
