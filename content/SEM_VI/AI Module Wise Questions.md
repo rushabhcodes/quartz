@@ -1,7 +1,12 @@
 ---
 created: 2025-05-17T16:07
-updated: 2025-05-20T21:56
+updated: 2025-05-20T22:31
 ---
+# Module 1: Introduction to AI
+
+## Describe four categories of Artificial Intelligence. 
+
+![[Categories of Artificial Intelligence]]
 # Module 2: Intelligent Agent
 
 ## Explain PEAS descriptor. Also state PEAS description for given object. PYQs:
