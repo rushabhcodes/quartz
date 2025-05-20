@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T14:12
-updated: 2025-05-19T14:21
+updated: 2025-05-20T07:32
 ---
 Signal propagation refers to the movement of electromagnetic waves from a transmitter to a receiver through a medium, influenced by environmental interactions. These interactions cause phenomena like shadowing, reflection, refraction, scattering, and multipath propagation, which significantly impact communication quality.
 
@@ -13,7 +13,7 @@ Signal propagation refers to the movement of electromagnetic waves from a transm
 2. **Detection Range:**
 	The range beyond the transmission range where the receiver can sense the signal’s presence but cannot decode the data.
 3. **Interference Range:**
-	The range where the signal is to- weak to be detected or decoded by a receiver but still strong enough to interfere with other ongoing transmissions.
+	The range where the signal is too weak to be detected or decoded by a receiver but still strong enough to interfere with other ongoing transmissions.
 
 ## Key Effects in Signal Propagation
 1. Shadowing

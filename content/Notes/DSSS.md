@@ -1,13 +1,13 @@
 ---
 created: 2025-05-19T13:53
-updated: 2025-05-19T13:58
+updated: 2025-05-20T07:24
 ---
 ## DSSS (Direct Sequence Spread Spectrum)
 
 - DSSS spreads data by multiplying it with a high-rate pseudo-noise (PN) code (chip sequence).
 - Each bit becomes multiple chips, increasing bandwidth and interference resistance.
 - PN code must match at both ends for successful de-spreading.
-- OƯers good security, anti-jamming, and signal reliability.
+- Offers good security, anti-jamming, and signal reliability.
 
 ## DSSS Transmitter:
 

@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T13:37
-updated: 2025-05-19T13:39
+updated: 2025-05-20T07:19
 ---
 
 Spread Spectrum is a transmission technique in wireless communication, where the
@@ -12,7 +12,7 @@ This makes the signal more resistant to interference, noise, and eavesdropping.
 #### Why is it used
 - Interference Resistance – Reduces the impact of noise and jamming.
 - Security – Difficult to intercept due to signal spreading.
-- Multiple Access – Allows multiple users to share the same bandwidth eƯiciently (e.g., CDMA).
+- Multiple Access – Allows multiple users to share the same bandwidth eefficiently (e.g., CDMA).
 - Low Probability of Detection: Appears like noise, making it hard to detect by unintended receivers.
 #### Types of Spread Spectrum:
 -  Frequency Hopping Spread Spectrum (FHSS)

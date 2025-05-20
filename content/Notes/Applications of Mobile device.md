@@ -1,11 +1,11 @@
 ---
 created: 2025-05-19T14:08
-updated: 2025-05-19T14:11
+updated: 2025-05-20T07:30
 ---
 ### 1. Vehicles
 Mobile devices are widely used in vehicles to enhance navigation, safety, and communication.
 #### Applications:
-- GPS Navigation Systems – Real-time route guidance, traƯic updates.
+- GPS Navigation Systems – Real-time route guidance, traffic updates.
 - Vehicle Diagnostics – Mobile apps connect to the vehicle’s system for fault detection.
 - Driver Assistance – Voice commands, lane assist alerts, and mobile integration with smart dashboards.
 - Ride-Sharing Apps – Platforms like Uber and Ola for on-demand transportation.
@@ -15,7 +15,7 @@ communication and alerts.
 #### Applications:
 - Disaster Alerts – Receive flood, earthquake, or weather warnings through government apps.
 - Emergency Calls & Location Sharing – Quick access to dial emergency numbers and share live location.
-- Rescue Coordination – Apps used by emergency responders for coordination (e.g., fire, ambulance).
+- Rescue Coordination – Apps used by emergency respondents for coordination (e.g., fire, ambulance).
 - Medical Emergency Apps – Access to first-aid information, nearby hospitals, and SOS features.
 ### 3. Business
 Mobile devices have transformed how businesses operate, enabling remote access and
