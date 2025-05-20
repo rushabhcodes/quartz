@@ -1,11 +1,33 @@
 ---
 created: 2025-05-17T16:07
-updated: 2025-05-19T02:17
+updated: 2025-05-20T21:56
 ---
 # Module 2: Intelligent Agent
 
+## Explain PEAS descriptor. Also state PEAS description for given object. PYQs:
+i. Vacuum cleaner robot
+ii. Automobile Driver agent
+iii. Part picking robot
+iv. Medical diagnosis system
+v. Online English tutor.
+
+![[PEAS Descriptor in AI]]
+
+## Explain Problem formulation, also give the initial state, goal test, successor function, and cost function for the following. Choose the formulation that is precise enough to be implemented. 
+PYQs:
+i. Problem Statement: Autonomous Taxi driver
+ii. Wumpus world problem
+iii. Problem statement: A 3-foot-tall monkey is in a room where some bananas are
+suspended from the 8-foot-tall ceiling. He would like to get bananas. The room
+contains two stackable, movable, climbable 3-foot-high crates.
+iv. Formulate the 8-puzzle problem. 
+
+![[Problem Formulation in AI]]
 
 
+## List down all agent types. Explain each with block diagram.
+
+![[Types of Agents in AI]]
 # Module 3: Problem Solving
 
 ## Explain hill climbing algorithm and problems that occur in hill climbing algorithm along with solutions.

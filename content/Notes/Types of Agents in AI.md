@@ -1,0 +1,154 @@
+---
+created: 2025-05-20T21:56
+updated: 2025-05-20T21:58
+---
+In Artificial Intelligence, **agent types** are classified based on how they perceive their environment and make decisions. The five main types of agents are:
+
+---
+
+## ✅ Types of Agents in AI
+
+1. **Simple Reflex Agent**
+    
+2. **Model-Based Reflex Agent**
+    
+3. **Goal-Based Agent**
+    
+4. **Utility-Based Agent**
+    
+5. **Learning Agent**
+    
+
+---
+
+### 1. 🧠 **Simple Reflex Agent**
+
+#### ➤ **Explanation**
+
+- Acts only on the **current percept**.
+    
+- Ignores the history of percepts.
+    
+- Uses **condition–action rules** ("if condition then action").
+    
+- Suitable only for fully observable environments.
+    
+
+#### **Block Diagram**:
+
+![[Types of Agents in AI 2025-05-20 21.58.16.excalidraw]]
+
+---
+
+### 2. 🧠 **Model-Based Reflex Agent**
+
+#### ➤ **Explanation**
+
+- Maintains an **internal state** based on the **history of percepts**.
+    
+- Uses a model of the world to handle **partially observable environments**.
+    
+
+#### **Block Diagram**:
+
+```
++------------+     +-------------+     +---------------------+     +--------+
+|   Percept  | --> |  State      | --> | Condition-Action    | --> | Action |
+|            |     | Update      |     | Rules Based on State|     |        |
++------------+     +-------------+     +---------------------+     +--------+
+```
+
+---
+
+### 3. 🎯 **Goal-Based Agent**
+
+#### ➤ **Explanation**
+
+- Chooses actions by considering **future consequences** and **goals**.
+    
+- Uses **search and planning** to achieve the desired goal.
+    
+- More flexible than reflex agents.
+    
+
+#### **Block Diagram**:
+
+```
++------------+     +-------------+     +--------+     +--------+     +--------+
+|   Percept  | --> | State       | --> | Goal   | --> | Search | --> | Action |
+|            |     | Update      |     | Info   |     |/Planning|    |        |
++------------+     +-------------+     +--------+     +--------+     +--------+
+```
+
+---
+
+### 4. 📈 **Utility-Based Agent**
+
+#### ➤ **Explanation**
+
+- Chooses the **best** action among multiple alternatives.
+    
+- Uses a **utility function** to measure **happiness/satisfaction**.
+    
+- Balances conflicting goals and handles trade-offs.
+    
+
+#### **Block Diagram**:
+
+```
++------------+     +-------------+     +--------+     +-------------+     +--------+
+|   Percept  | --> | State       | --> | Goal   | --> | Utility      | --> | Action |
+|            |     | Update      |     | Info   |     | Evaluation   |     |        |
++------------+     +-------------+     +--------+     +-------------+     +--------+
+```
+
+---
+
+### 5. 📚 **Learning Agent**
+
+#### ➤ **Explanation**
+
+- Can **learn from experience** and improve performance over time.
+    
+- Consists of a **learning element**, a **performance element**, a **critic**, and a **problem generator**.
+    
+
+#### **Block Diagram**:
+
+```
+                    +-----------------+
+                    | Performance     |
+Percepts  --------> | Element         | --------> Actions
+                    +-----------------+
+                            |
+                            v
+                    +-----------------+
+                    | Critic          | (Gives feedback based on performance)
+                    +-----------------+
+                            |
+                            v
+                    +-----------------+
+                    | Learning Element| (Improves Performance)
+                    +-----------------+
+                            |
+                            v
+                    +-----------------+
+                    | Problem Generator| (Suggests new experiences)
+                    +-----------------+
+```
+
+---
+
+## 📌 Summary Table
+
+|Agent Type|Memory|Uses Goals|Utility|Learning|
+|---|---|---|---|---|
+|Simple Reflex|❌|❌|❌|❌|
+|Model-Based Reflex|✅|❌|❌|❌|
+|Goal-Based|✅|✅|❌|❌|
+|Utility-Based|✅|✅|✅|❌|
+|Learning Agent|✅|✅|✅|✅|
+
+---
+
+Let me know if you want hand-drawn or digital diagrams for notes or presentations!
