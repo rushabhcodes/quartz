@@ -1,7 +1,7 @@
 ---
 title: Home
 created: 2025-05-20T12:04
-updated: 2025-05-20T12:04
+updated: 2025-05-20T22:35
 ---
 # 🌱 **Welcome to My Digital Garden**
 
@@ -11,4 +11,4 @@ You'll find notes on programming, tech experiments, life lessons, and anything e
 
 Feel free to wander, explore, and maybe even learn something new.
 
-Currently i am studying for Engineering [[SEM VI]]
+
