@@ -1,6 +1,6 @@
 ---
 created: 2025-05-19T14:26
-updated: 2025-05-19T15:29
+updated: 2025-05-20T10:10
 ---
 ### **Types of Antennas and Their Radiation Patterns**
 
@@ -20,7 +20,7 @@ Antennas are crucial components in wireless communication, converting electrical
 
 #### **2. Dipole Antenna**  
 - **Radiation Pattern**:  
-  - **2D (Horizontal)**: Figure-8 (bidirectional).  
+  - **2D (Horizontal)**: (bidirectional).  
   - **3D**: Torus/donut-shaped (nulls at the ends).  
 - **Description**:  
   - Simplest practical antenna (e.g., half-wave dipole).  
