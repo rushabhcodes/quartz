@@ -1,6 +1,6 @@
 ---
 created: 2025-05-21T02:32
-updated: 2025-05-21T14:32
+updated: 2025-05-21T14:39
 ---
 >SSH Information  
 >Host: bandit.labs.overthewire.org  
@@ -50,11 +50,109 @@ cat ./spaces\ in\ this\ filename
 > MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 # Level 3
-
 ```sh
-ls
-cat ./spaces\ in\ this\ filename
+cat inhere/...Hiding-From-You
 ```
 
 > [!success] Password
-> MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+> 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+# Level 4
+```sh
+file inhere/*
+inhere/-file00: PGP Secret Sub-key -
+inhere/-file01: data
+inhere/-file02: data
+inhere/-file03: data
+inhere/-file04: data
+inhere/-file05: data
+inhere/-file06: data
+inhere/-file07: ASCII text
+inhere/-file08: data
+inhere/-file09: data
+```
+
+```sh
+cat inhere/-file07
+```
+
+> [!success] Password
+> 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+# Level 5
+```
+```
+
+>[!success] Password
+
+# Level 5
+```
+```
+
+>[!success] Password
+
+# Level 5
+```
+```
+
+>[!success] Password
+
+# Level 5
+```
+```
+
+>[!success] Password
+
+# Level 5
+```
+```
+
+>[!success] Password
+
+# Level 5
+```
+```
+
+>[!success] Password
+
+# Level 5
+```
+```
+
+>[!success] Password
+
+# Level 5
+```
+```
+
+>[!success] Password
+
+# Level 5
+```
+```
+
+>[!success] Password
+
+# Level 5
+```
+```
+
+>[!success] Password
+
+# Level 5
+```
+```
+
+>[!success] Password
+
+# Level 5
+```
+```
+
+>[!success] Password
+# Level 5
+```
+```
+
+>[!success] Password
+>
