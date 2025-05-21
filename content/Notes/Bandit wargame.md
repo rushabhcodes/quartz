@@ -1,6 +1,6 @@
 ---
 created: 2025-05-21T02:32
-updated: 2025-05-21T14:39
+updated: 2025-05-21T14:52
 ---
 >SSH Information  
 >Host: bandit.labs.overthewire.org  
@@ -81,11 +81,13 @@ cat inhere/-file07
 
 # Level 5
 ```
+find . -size 1033c
 ```
 
 >[!success] Password
+>HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
-# Level 5
+# Level 6
 ```
 ```
 
