@@ -1,6 +1,6 @@
 ---
 created: 2025-05-16T10:37
-updated: 2025-05-16T10:37
+updated: 2025-05-23T00:07
 ---
 Alpha Beta Pruning is an optimization technique of the Minimax algorithm. This algorithm solves the limitation of exponential time and space complexity in the case of the Minimax algorithm by pruning redundant branches of a game tree using its parameters Alpha(α) and Beta(β).
 ## Parameters of the Alpha Beta Pruning Algorithm
