@@ -21,7 +21,7 @@ The Minimax algorithm would have traversed the complete game tree leading to the
 |---|
 |_Figure-2_|
 
-Alpha Beta Pruning algorithm restricts the agent from visiting redundant sub-trees leading to faster average search time complexity. To visualize its working, we refer to the same game tree in Figure-1. We start from node N1​ with α=−∞α=−∞ and β=∞β=∞. From N1​, we move to its child node N2​ with the same αα and ββ. Similarly, we move from N2​ to its child N4​, as shown in Figure-3.
+Alpha Beta Pruning algorithm restricts the agent from visiting redundant sub-trees leading to faster average search time complexity. To visualize its working, we refer to the same game tree in Figure-1. We start from node N1​ with α=− and β=∞β=∞. From N1​, we move to its child node N2​ with the same αα and ββ. Similarly, we move from N2​ to its child N4​, as shown in Figure-3.
 
 |![Figure-3.jpg](https://www.scaler.com/topics/images/pruning3.webp)|
 |---|
