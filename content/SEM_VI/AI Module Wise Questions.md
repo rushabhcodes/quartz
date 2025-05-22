@@ -1,6 +1,6 @@
 ---
 created: 2025-05-17T16:07
-updated: 2025-05-20T22:31
+updated: 2025-05-22T09:38
 ---
 # Module 1: Introduction to AI
 
@@ -50,6 +50,10 @@ iv. Formulate the 8-puzzle problem.
 ## Explain Simulated annealing with suitable example.
 
 ![[Simulated Annealing]]
+
+![[Alpha Beta pruning]]
+
+
 # Module 4: Knowledge and Reasoning
 
 ## Explain forward-chaining and backward-chaining algorithm in detail with suitable example.
