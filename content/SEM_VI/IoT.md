@@ -1,6 +1,6 @@
 ---
 created: 2025-05-25T23:18
-updated: 2025-05-26T00:04
+updated: 2025-05-26T00:17
 ---
 # IoT World Forum (IOTWF) Standardized Architecture
 ![[IoT World Forum Standardized Architecture]]
@@ -13,3 +13,11 @@ updated: 2025-05-26T00:04
 
 # Describe Zigbee Protocol Stack Using IEEE 802.15.4
 ![[Zigbee Protocol Stack ]]
+
+# Difference Between Fog Computing And Edge Computing.
+![[Difference Between Fog Computing And Edge Computing]]
+
+# What Are Gateways And Backhaul Sub Layers
+![[Gateways And Backhaul Sub Layers]]
+
+# 
