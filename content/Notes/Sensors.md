@@ -21,16 +21,16 @@ A **Sensor** is a device that **detects changes** in the environment and **conve
 
 ## 📌 **Characteristics of Sensors:**
 
-|Characteristic|Description|
-|---|---|
-|**Sensitivity**|How small a change the sensor can detect (e.g., a 0.1°C change in temperature).|
-|**Accuracy**|How close the sensor's output is to the true value.|
-|**Range**|The minimum and maximum values the sensor can measure.|
-|**Resolution**|The smallest possible detectable change in the input.|
-|**Response Time**|How quickly the sensor reacts to a change.|
-|**Repeatability**|Ability to give the same output under the same conditions.|
-|**Durability**|How long the sensor can function reliably in different environments.|
-|**Power Consumption**|How much energy the sensor needs to operate.|
+| Characteristic        | Description                                                                     |
+| --------------------- | ------------------------------------------------------------------------------- |
+| **Sensitivity**       | How small a change the sensor can detect (e.g., a 0.1°C change in temperature). |
+| **Accuracy**          | How close the sensor's output is to the true value.                             |
+| **Range**             | The minimum and maximum values the sensor can measure.                          |
+| **Resolution**        | The smallest possible detectable change in the input.                           |
+| **Response Time**     | How quickly the sensor reacts to a change.                                      |
+| **Repeatability**     | Ability to give the same output under the same conditions.                      |
+| **Durability**        | How long the sensor can function reliably in different environments.            |
+| **Power Consumption** | How much energy the sensor needs to operate.                                    |
 
 ---
 

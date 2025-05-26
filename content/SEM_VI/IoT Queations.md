@@ -1,7 +1,10 @@
 ---
 created: 2025-05-25T23:18
-updated: 2025-05-26T07:51
+updated: 2025-05-26T09:03
 ---
+# IoT
+![[IoT]]
+
 # IoT World Forum (IOTWF) Standardized Architecture
 ![[IoT World Forum Standardized Architecture]]
 
@@ -20,5 +23,24 @@ updated: 2025-05-26T07:51
 # What Are Gateways And Backhaul Sub Layers
 ![[Gateways And Backhaul Sub Layers]]
 
-# 
+# Comparison between COAP and MQTT
 ![[Comparison between COAP and MQTT]]
+
+# Explain IOT Application Transport Methods In Brief.
+![[IOT Application Transport Methods]]
+
+# Comparison between sensors and actuators
+![[Comparison between sensors and actuators]]
+
+# Smart Objects
+![[Smart Objects]]
+
+# Sensors
+![[Sensors]]
+
+# Comparison between Arduino and Raspberry Pi
+![[Comparison between Arduino and Raspberry Pi]]
+
+# ESP32
+![[ESP32]]
+

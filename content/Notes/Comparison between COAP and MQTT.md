@@ -1,6 +1,6 @@
 ---
 created: 2025-05-26T07:51
-updated: 2025-05-26T08:50
+updated: 2025-05-26T08:57
 ---
 
 | **Aspect**              | **CoAP**                                                 | **MQTT**                                                |
@@ -23,14 +23,3 @@ updated: 2025-05-26T08:50
 | Web Integration         | Good (HTTP-like URI and methods, easy proxying)          | Limited (not natively compatible with HTTP)             |
 | Proxy Support           | Yes (CoAP-to-HTTP proxies available)                     | Limited                                                 |
 | Suitable for            | Constrained devices, lossy networks, multicast scenarios | Reliable delivery, cloud integration, publish/subscribe |
-# Explain IOT Application Transport Methods In Brief.
-![[IOT Application Transport Methods]]
-
-# Comparison between sensors and actuators
-![[Comparison between sensors and actuators]]
-
-# Smart Objects
-![[Smart Objects]]
-
-# Sensors
-![[Sensors]]
