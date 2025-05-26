@@ -1,6 +1,6 @@
 ---
 created: 2025-05-26T07:51
-updated: 2025-05-26T08:03
+updated: 2025-05-26T08:50
 ---
 
 | **Aspect**              | **CoAP**                                                 | **MQTT**                                                |
@@ -28,3 +28,9 @@ updated: 2025-05-26T08:03
 
 # Comparison between sensors and actuators
 ![[Comparison between sensors and actuators]]
+
+# Smart Objects
+![[Smart Objects]]
+
+# Sensors
+![[Sensors]]
