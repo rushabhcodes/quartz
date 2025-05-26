@@ -21,4 +21,4 @@ updated: 2025-05-26T07:51
 ![[Gateways And Backhaul Sub Layers]]
 
 # 
-![[Comparison between COAP an]]
+![[Comparison between COAP and MQTT]]
