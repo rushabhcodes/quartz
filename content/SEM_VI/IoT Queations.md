@@ -1,6 +1,6 @@
 ---
 created: 2025-05-25T23:18
-updated: 2025-05-26T09:03
+updated: 2025-05-26T09:08
 ---
 # IoT
 ![[IoT]]
@@ -44,3 +44,5 @@ updated: 2025-05-26T09:03
 # ESP32
 ![[ESP32]]
 
+#  JSON-LD
+![[ JSON-LD]]
