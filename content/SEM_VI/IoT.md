@@ -1,6 +1,6 @@
 ---
 created: 2025-05-25T23:18
-updated: 2025-05-26T00:17
+updated: 2025-05-26T07:51
 ---
 # IoT World Forum (IOTWF) Standardized Architecture
 ![[IoT World Forum Standardized Architecture]]
@@ -21,3 +21,4 @@ updated: 2025-05-26T00:17
 ![[Gateways And Backhaul Sub Layers]]
 
 # 
+![[Comparison between COAP an]]
