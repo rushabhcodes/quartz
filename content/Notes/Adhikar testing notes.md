@@ -1,18 +1,18 @@
 ---
 created: 2025-06-11T16:34
-updated: 2025-06-11T17:15
+updated: 2025-06-17T11:59
 ---
-- [ ] need to restart after signup
+- [x] need to restart after signup
 - [ ] remove twitch logo from pods
-- [ ] shows signup page when no internet
-- [ ] reduce size of like and bookmark buttons
-- [ ] search button responsive
-- [ ] expert == pending but  visible in marketplace
+- [x] shows signup page when no internet
+- [x] reduce size of like and bookmark buttons
+- [x] search button responsive
+- [x] expert == pending but  visible in marketplace
 - [ ] update terms and conditions
-- [ ] update button in edit profile does not match the UI
-- [ ] change default profile image in edit profile section
-- [ ] no back button after completing the payment
-- [ ] add pull to refresh transaction
-- [ ] after expert is approved delete its user model
-- [ ] reverse transaction order
+- [x] update button in edit profile does not match the UI
+- [x] change default profile image in edit profile section
+- [x] no back button after completing the payment
+- [x] add pull to refresh transaction
+- [x] after expert is approved delete its user model
+- [x] reverse transaction order
 - [ ] ability to save chat, bookmark
