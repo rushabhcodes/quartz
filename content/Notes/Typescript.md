@@ -1,6 +1,6 @@
 ---
 created: 2025-06-23T02:42
-updated: 2025-06-23T03:12
+updated: 2025-06-23T03:27
 ---
 > TypeScript is a strongly typed programming language that builds on JavaScript.
 
@@ -15,6 +15,8 @@ The terms `strongly typed` and `loosely typed` refer to how programming language
 | Strongly typed languages<br><br>                                                                                                                        | Loosely typed languages                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1. Examples - Java, C++, C, Rust<br><br>2. Benefits -<br>	1. Lesser runtime errors<br>	2. Stricter codebase<br>	3. Easy to catch errors at compile time | 1. Examples - Python, Javascript, Perl, php<br><br>2. Benefits<br>	1. Easy to write code<br>	2. Fast to bootstrap<br>	3. Low learning curve |
+
+---
 
 > [!fail] Does not work
 
@@ -40,3 +42,36 @@ function main() {
 }
 ```
 
+---
+
+### What is typescript?
+
+TypeScript is a programming language developed and maintained by Microsoft.
+
+It is a strict `syntactical superset` of JavaScript and adds optional static typing to the language.
+
+![[JSvsTS.excalidraw.svg]]
+
+---
+### Where/How does typescript code run?
+
+Typescript code never runs in your browser. Your browser can only understand `javascript`.
+
+1. Javascript is the runtime language (the thing that actually runs in your browser/nodejs runtime)
+
+2. Typescript is something that compiles down to javascript
+
+3. When typescript is compiled down to javascript, you get `type checking` (similar to C++). If there is an error, the conversion to Javascript fails.
+
+![[TStoJS.excalidraw.svg]]
+
+---
+### Typescript compiler
+
+`tsc` is the official typescript compiler that you can use to convert `Typescript` code into `Javascript`
+
+There are many other famous compilers/transpilers for converting Typescript to Javascript. Some famous ones are -
+
+1. esbuild
+
+2. swc
