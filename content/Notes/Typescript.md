@@ -1,6 +1,6 @@
 ---
 created: 2025-06-23T02:42
-updated: 2025-06-23T03:27
+updated: 2025-06-23T03:31
 ---
 > TypeScript is a strongly typed programming language that builds on JavaScript.
 
@@ -75,3 +75,22 @@ There are many other famous compilers/transpilers for converting Typescript to J
 1. esbuild
 
 2. swc
+
+---
+### How to create a ts project
+#### Step 1 - Install typescript globally
+```bash
+npm install -g typescript
+```
+#### Step 2 - Initialize an empty Node.js project
+```bash
+mkdir node-app
+cd node-app
+npm init -y
+```
+#### Step 3 - Initialize a `tsconfig.json` file.
+```bash
+npx tsc --init
+```
+
+---
