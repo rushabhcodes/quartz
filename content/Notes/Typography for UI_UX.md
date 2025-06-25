@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T01:24
-updated: 2025-06-26T01:54
+updated: 2025-06-26T01:56
 ---
 ## Typography
 
@@ -65,7 +65,7 @@ updated: 2025-06-26T01:54
 ### Resources
 
 - [Typescale](https://typescale.com/) - For realtime font preview.
-- [https://www.fontshare.com/](https://www.fontshare.com/) - A curated collection of fonts that are free to use.
-- [https://fontjoy.com/](https://fontjoy.com/) - Font pairing tool.
-- [https://www.freefaces.gallery/](https://www.freefaces.gallery/) - A gallery of free fonts.
-- [https://uncut.wtf/](https://uncut.wtf/) - A tool to find fonts that closely resemble a specific font.
+- [FontShare](https://www.fontshare.com/) - A curated collection of fonts that are free to use.
+- [FontJoy](https://fontjoy.com/) - Font pairing tool.
+- [FreeFaces](https://www.freefaces.gallery/) - A gallery of free fonts.
+- [Uncut](https://uncut.wtf/) - A collection of cool fonts.
