@@ -1,13 +1,12 @@
 ---
 created: 2025-06-26T01:56
-updated: 2025-06-26T02:08
+updated: 2025-06-26T02:10
 ---
 ## Color
 
 Color plays a crucial role in UI/UX design—it enhances mood, draws attention, and impacts the overall user experience.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=srRI7yMjGz0" 
-frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/srRI7yMjGz0?si=Rcmj94A4qVJe2CA2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Color Theory
 
