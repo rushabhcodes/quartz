@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T01:24
-updated: 2025-06-26T01:34
+updated: 2025-06-26T01:54
 ---
 ## Typography
 
@@ -64,8 +64,8 @@ updated: 2025-06-26T01:34
 - Kerning: The space between specific pairs of letters to make the text look more balanced (e.g., A and V in some fonts).
 ### Resources
 
-- [](https://typescale.com/)[https://typescale.com](https://typescale.com) -
-- [https://www.fontshare.com/](https://www.fontshare.com/)
-- [https://fontjoy.com/](https://fontjoy.com/)
-- [https://www.freefaces.gallery/](https://www.freefaces.gallery/)
-- [https://uncut.wtf/](https://uncut.wtf/)
+- [Typescale](https://typescale.com/) - For realtime font preview.
+- [https://www.fontshare.com/](https://www.fontshare.com/) - A curated collection of fonts that are free to use.
+- [https://fontjoy.com/](https://fontjoy.com/) - Font pairing tool.
+- [https://www.freefaces.gallery/](https://www.freefaces.gallery/) - A gallery of free fonts.
+- [https://uncut.wtf/](https://uncut.wtf/) - A tool to find fonts that closely resemble a specific font.
