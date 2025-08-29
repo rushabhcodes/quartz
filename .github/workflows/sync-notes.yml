@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone Obsidian Vault
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5
         with:
           repository: "rushabhcodes/garden"
           ref: main
@@ -20,7 +20,7 @@ jobs:
           path: garden
 
       - name: Clone this repo
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5
         with:
           ref: v4
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
