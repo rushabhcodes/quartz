@@ -1,6 +1,6 @@
 ---
 created: 2025-09-09T11:06
-updated: 2025-09-09T11:45
+updated: 2025-09-09T12:00
 ---
 # Initializing a git repo
 
@@ -32,3 +32,40 @@ Based on my research, here's a short, line-by-line explanation of the files and 
 - **`objects`**: This is where Git stores your project's data. Every file, commit, and snapshot is saved here as a compressed object.
 
 - **`refs`**: This directory holds pointers to commits, known as references. It's where your branches and tags are stored.
+### Hears a more detailed look in the contents of .git directory
+
+```bash
+$ tree .git                                                                      
+
+.git
+├── config
+├── description
+├── HEAD
+├── hooks
+│   ├── applypatch-msg.sample
+│   ├── commit-msg.sample
+│   ├── fsmonitor-watchman.sample
+│   ├── post-update.sample
+│   ├── pre-applypatch.sample
+│   ├── pre-commit.sample
+│   ├── pre-merge-commit.sample
+│   ├── prepare-commit-msg.sample
+│   ├── pre-push.sample
+│   ├── pre-rebase.sample
+│   ├── pre-receive.sample
+│   ├── push-to-checkout.sample
+│   ├── sendemail-validate.sample
+│   └── update.sample
+├── info
+│   └── exclude
+├── objects
+│   ├── info
+│   └── pack
+└── refs
+    ├── heads
+    └── tags
+```
+
+From all these files and folders, the `objects` directory is the most important one.
+
+# Git Objects
