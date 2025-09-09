@@ -1,18 +1,18 @@
 ---
 created: 2025-09-09T11:06
-updated: 2025-09-09T12:00
+updated: 2025-09-09T12:03
 ---
 # Initializing a git repo
 
 When we run the command `git init` it creates a `.git`  directory.
 ```bash
-git init
+$ git init
 Initialized empty Git repository in /home/rushabh/test/.git/
 ```
 ## Peeking Inside the .git Folder
 
 ```bash
-ls .git
+$ ls .git
  config   description   HEAD   hooks   info   objects   refs
 ```
 
